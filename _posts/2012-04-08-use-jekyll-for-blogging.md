@@ -3,7 +3,8 @@ layout: post
 title: "Use Jekyll for blogging"
 description: ""
 category: 
-tags: []
+comment: false
+tags: [hooray]
 ---
 {% include JB/setup %}
 

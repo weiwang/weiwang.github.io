@@ -1,6 +1,6 @@
 # This is the default format. 
 # For more see: https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink: /:categories/:year/:month/:day/:title 
+permalink: /:categories/:year/:month/:d ay/:title 
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
@@ -13,7 +13,7 @@ title : Data and Model
 tagline: 
 author : 
   name : Wei Wang
-  email : ww22434322@columbia.edu (just the first 4 digits of number)
+  email : 
   github : weiwang
   twitter : weibetter
   feedburner : feedname
