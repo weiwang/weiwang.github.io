@@ -9,11 +9,11 @@ pygments: true
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title : Data and Model
+title : Hopefully Useful Models
 tagline: 
 author : 
   name : Wei Wang
-  email : 
+  email : ww22+43@columbia.edu (remove "+")
   github : weiwang
   twitter : weibetter
   feedburner : feedname
