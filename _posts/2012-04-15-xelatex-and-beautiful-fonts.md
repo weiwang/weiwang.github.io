@@ -14,7 +14,7 @@ There are basically two reasons why you might want to use XeTeX instead of TeX: 
 
 **fontspec**
 
-The intergration of system fonts with TeX is achieved by package _fontspec_. General font selections are made through the following commands
+The intergration of system fonts with TeX is achieved by package _fontspec_. General font selections are made through the following commands.
 
     \fontspec [hfont featuresi] {hfont namei}
     \setmainfont [hfont featuresi] {hfont namei} %% Roman/Serif font
