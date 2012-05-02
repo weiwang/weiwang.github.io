@@ -16,10 +16,10 @@ There are basically two reasons why you might want to use XeTeX instead of TeX: 
 
 The intergration of system fonts with TeX is achieved by package _fontspec_. General font selections are made through the following commands.
 
-    \fontspec [hfont featuresi] {hfont namei}
-    \setmainfont [hfont featuresi] {hfont namei} %% Roman/Serif font
-    \setsansfont [hfont featuresi] {hfont namei} %% Sans-Serif is also known as Gothic font
-    \setmonofont [hfont featuresi] {hfont namei} %% fixed-width
-    \newfontfamily hcmdi [hfont featuresi] {hfont namei}
+    \fontspec [font feature] {font name}
+    \setmainfont [font feature] {font name} %% Roman/Serif font
+    \setsansfont [font feature] {font name} %% Sans-Serif is also known as Gothic font
+    \setmonofont [font feature] {font name} %% fixed-width
+    \newfontfamily <cmd> [font feature] {font name}
 
                    
