@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Welcome to Wang, Wei's webpage. 
+title: Wang, Wei's Webpage 
 tagline: 
 ---
 
