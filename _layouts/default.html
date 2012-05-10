@@ -1,6 +1,7 @@
 ---
-theme :
-  name : tom
+layout: common
 ---
-{% include JB/setup %}
-{% include themes/tom/default.html %}
+<div class="title">{{ page.title }}</div>
+{% include links.html %}
+
+{{ content }}
