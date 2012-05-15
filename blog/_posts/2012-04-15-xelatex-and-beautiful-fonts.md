@@ -5,7 +5,6 @@ description: ""
 category:
 tags: [XeTex]
 ---
-{% include JB/setup %}
 
 <!--Some ideas: kpsexpand, add-hook, lambda(), differences between emacs variables commands function, \newcommadn, \renewcommand-->
 
