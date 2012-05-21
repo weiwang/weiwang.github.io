@@ -4,13 +4,9 @@ title: Wang, Wei's Webpage
 tagline: 
 ---
 
-I am a graduate student in statistics, data science geek and political junkie living in New York city. 
+I am a graduate student in statistics living in New York City. This is my personal webpage. It is still under construction. So far the design of this webpage is mostly borrowed from [Julia language webpage](http://julialang.org).  
 
-## Academic
 
-My advisor is [Andrew Gelman](http://www.stat.columbia.edu/~gelman/). He maintains [one](http://andrewgelman.com) of the most popular statistics blogs. 
-    
-## 
 
 
 

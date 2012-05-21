@@ -6,7 +6,7 @@ title:  Wang, Wei's Teaching Page
   <p>A list of my courses.</p>
   <ul>
       <li>
-        <a href="/teaching/s1211q/"> S1211Q Introduction to Statistics with Calculus</a> 
+        <a href="/teaching/s1211q/"> S1211Q Introduction to Statistics with Calculus, Summer 2012</a> 
       </li>
   </ul>
 </div>
