@@ -10,7 +10,7 @@ I am beginning to read John Chambers' R book, _Software of Data Analysis_. As th
 
 **R is a lot like Functional PLs**
 
-Programming languages have paradigms. C is a procedural programming language and C++ is an object-oriented programming language. But there is a more eccentric but older programming paradigm, functional programming language. It is like Indie movies, having a small but loyal followings. S/R is strongly influenced by functional programming languages, like _Lisp_, from its early days. In essence, almost everything in R can be described as a function call to the evaluator. Even though we see C-style syntax, like assignment '<-', it is actually implemented by a call to the corresponding function \`<-\`, and then evaluating it. Here I am using grave accent "`", in contrast to acute accent "'", which means I am using the semantic meaning rather than the literal meaning of the string. 
+Programming languages have paradigms. C is a procedural programming language and C++ is an object-oriented programming language. But there is a more eccentric but older programming paradigm, functional programming language. It is like Indie movies, having a small but loyal followings. S/R is strongly influenced by functional programming languages, like _Lisp_, from its early days. In essence, almost everything in R can be described as a function call to the evaluator. Even though we see C-style syntax, like assignment '<-', it is actually implemented by a call to the corresponding function \`<-\`, and then evaluating it. Here I am using the grave accent "`", which means I am quoting the semantic meaning of the string, rather than the acute accent "'", the literal meaning. 
 
 To borrow from Regexp, R mostly work as (function call + evaluator)*.
 
