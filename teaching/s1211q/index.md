@@ -6,7 +6,7 @@ title:  Wang, Wei's Teaching Page
   <p>S1211Q Introduction to Statistics with Calculus</p>
   <ul>
       <li>
-        <a href="./syllabus.pdf">Syllabus</a>
+        <a>Syllabus</a><a href="./syllabus.pdf">[pdf]</a><a href="./syllabus.html">[html]</a>
       </li>
   </ul>
 </div>
