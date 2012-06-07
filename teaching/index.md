@@ -2,11 +2,6 @@
 layout: default
 title:  Wang, Wei's Teaching Page
 ---
-<div id="teachingindex">
-  <p>A list of my courses.</p>
-  <ul>
-      <li>
-        <a href="/teaching/s1211q/"> S1211Q Introduction to Statistics with Calculus, Summer 2012</a> 
-      </li>
-  </ul>
-</div>
+A list of my courses.
+
+- [S1211Q](/teaching/s1211q) Introduction to Statistics with Calculus, Summer 2012
