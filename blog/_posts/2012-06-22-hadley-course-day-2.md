@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Notes from Hadley R course: Day 2"
+title: "Notes from Hadley's R course: Day 2"
 description: ""
 category: Programming
 tags: [R]

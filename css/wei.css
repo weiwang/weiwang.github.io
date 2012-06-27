@@ -1,0 +1,227 @@
+/* general site formatting */
+@import url(http://fonts.googleapis.com/css?family="Inconsolata");
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html, body {
+    height: 100%;
+    background-image: url("../figures/natural_paper.png");
+    background-attachment:fixed;
+}
+
+body {
+    background-color: white;
+    font: 12.5pt "HelveticaNeue", Georgia, Arial, sans-serif;
+}
+pre, code {
+  font-family: 'Inconsolata', monospace;
+  background-color: #eee;
+  color: #000;
+}
+
+#site {
+    width: 55em;
+    text-align: left;
+    line-height: 1.5em;
+    margin: 3em auto 2em auto;
+}
+#site .title {
+    font-weight: bold;
+    margin-bottom: 2em;
+}
+#site .links {
+    text-align: center;
+}
+#site .links a {
+    text-decoration: none;
+    color: #a00;
+}
+#site .contact a:hover {
+    color: black;
+}
+#footer {
+  position: absolute; 
+  bottom: 0px;
+  padding: 0 0 0 5px;
+  margin-left: 1em;
+}
+
+/* copy from had.co.nz ------------*/
+#contact {
+  float: right;
+  width: 15em;
+  padding: 0 0 0 5px;
+  margin-left: 1em;
+  border-left: 3px solid #808080;
+
+}
+#contact ul {list-style: none; margin: 0;}
+#contact li {margin: 0.5em 0 0 0;}
+#contact h2 {margin: 0 0 0 0; border-left: none; padding-left: 0;}
+#contact p {margin-bottom: 0; font-weight: bold;}
+
+.title, h1, h2, h3, h4, h5, h6 {
+    font-family: "HelveticaNeue", Helvetica, Arial, Clean, sans-serif;
+    font-size: 105%;
+}
+
+.title {
+    text-align: center;
+    font-size: 130%;
+}
+
+h1 {
+    font-size: 110%;
+    padding-top: 1ex;
+}
+
+h2 {
+    padding-top: 1ex;
+}
+
+p {
+    margin: 1em 0;
+}
+
+a {
+    text-decoration: none;
+    color: #00b;
+}
+a:visited { color: #88b; }
+a:hover   { color: #008; }
+
+ol {
+    margin-left: 2.25em;
+}
+
+ul {
+    margin-left: 1.8em;
+    list-style-type: circle;
+}
+
+.figure {
+    text-align: center;
+}
+.figure p.note { font-size: 75%; }
+
+/* benchmarks table */
+
+table.benchmarks {
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+}
+table.benchmarks thead {
+    /* border-top: 1px solid black; */
+    border-bottom: 1px solid black;
+}
+table.benchmarks tbody {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+}
+table.benchmarks colgroup col.relative {
+    border-left: 1px solid black;
+}
+table.benchmarks thead th,
+table.benchmarks thead td {
+    width: 10ex;
+    text-align: center;
+    padding: 0 1ex;
+}
+table.benchmarks thead td {
+    padding-bottom: 0.75ex;
+}
+table.benchmarks tbody {
+    font: 80% Monaco, Courier, mono;
+}
+table.benchmarks tbody th {
+    font-weight: normal;
+    text-align: left;
+    padding: 0 1em;
+}
+table.benchmarks tbody td.data {
+    text-align: right;
+    padding: 0 2em 0 0;
+}
+
+/* inline code and code blocks */
+
+code {
+    font: 80% Monaco, 'Courier New', Courier, monospace;
+}
+
+pre {
+    border: 1px solid #ddd;
+    margin: 1em 2em 1em 1.5em;
+    padding: .75em 1.25em;
+    line-height: 1em;
+}
+
+.sidebar {
+    border: 1px solid #ddd;
+    padding: .75em 1.25em;
+    line-height: 1.45em;
+    margin: 1em 0.5em 1em 0em;
+    font-size: 90%;
+}
+
+blockquote {
+    margin: 1em 2em 1em 1em;
+}
+
+/* pages listing blog posts */
+
+#blogindex {
+    width: 30em;
+    margin: 2em auto 2em auto;
+}
+#blogindex ul {
+    margin: 0 2.5em 0 1em;
+}
+#blogindex ul.posts {
+    list-style-type: none;
+}
+#blogindex ul.posts li {
+    line-height: 1.75em;
+    margin: 0;
+}
+#blogindex ul.posts .timestamp {
+    float: right;
+    color: #aaa;
+}
+
+/* blog post pages */
+
+#blogpost {
+    margin-bottom: 3em;
+}
+#blogpost .timestamp {
+    color: #aaa;
+}
+
+#trackbacks {
+    margin-bottom: 3em;
+}
+
+/* disqus comment threads */
+
+#disqus_thread {
+    font-family: Helvetica, Arial, Clean, sans-serif;
+    font-size: 85%;
+}
+#dsq-pagination {
+    font-size: 85%;
+}
+
+.chaplink {
+    font-family: Helvetica, Arial, Clean, sans-serif;
+    font-size: 90%;
+}
+.prevlink {
+    float: left;
+}
+.nextlink {
+    float: right;
+}
