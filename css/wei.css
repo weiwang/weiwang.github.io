@@ -44,7 +44,7 @@ pre, code {
 }
 #footer {
   position: absolute; 
-  bottom: 0px;
+  bottom: 30px;
   padding: 0 0 0 5px;
   margin-left: 1em;
 }
