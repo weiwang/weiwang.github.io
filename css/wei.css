@@ -1,5 +1,6 @@
 /* general site formatting */
 @import url(http://fonts.googleapis.com/css?family="Inconsolata");
+@import url(http://fonts.googleapis.com/css?family=Oxygen);
 * {
     margin: 0;
     padding: 0;
@@ -13,7 +14,7 @@ html, body {
 
 body {
     background-color: white;
-    font: 12.5pt "HelveticaNeue", Georgia, Arial, sans-serif;
+    font: 12.5pt Oxygen, Georgia, Arial, sans-serif;
 }
 pre, code {
   font-family: 'Inconsolata', monospace;
@@ -63,7 +64,7 @@ pre, code {
 #contact p {margin-bottom: 0; font-weight: bold;}
 
 .title, h1, h2, h3, h4, h5, h6 {
-    font-family: "HelveticaNeue", Helvetica, Arial, Clean, sans-serif;
+    font-family: Oxygen, Helvetica, Arial, Clean, sans-serif;
     font-size: 105%;
 }
 
