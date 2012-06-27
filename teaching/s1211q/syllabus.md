@@ -10,7 +10,7 @@ title:  Wang, Wei's Teaching Page
     * 1255 Amsterdam Ave, Rm 901
     * New York, NY 10027
     * ww2243@columbia.edu
-    * office hours: 4-5:30pm, Mon & Wed, School of Social Work Rm 1025
+    * office hours: 4-5:30pm, Mon & Wed, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 1025
 
 -   **Lecture Time**
 
@@ -41,11 +41,9 @@ title:  Wang, Wei's Teaching Page
 
 -   **Method of Evaluation**
 
-     There will be 8 homework assignments, 2 midterms and 1 final exam.
-    Their contributions to your grade will be respectively 30%, 35% and
-    35%. A tentative calendar is given in the [pdf version of syllabus](syllabus.pdf). Homework assignments
-    that are be due on Thursdays will be lighter than those that are due
-    on Tuesdays.
+     There will be 6 homework assignments, 1 midterms and 1 final exam.
+    Their contributions to your grade will be respectively 30%, 30% and
+    40%. A tentative calendar is given in the [pdf version of syllabus](syllabus.pdf). 
 
 
 -   **Textbook**
@@ -57,5 +55,5 @@ title:  Wang, Wei's Teaching Page
     * Ran He
     * 1255 Amsterdam Ave, Rm 1019
     * rh2528@columbia.edu
-    * Office hours: 2-3:30pm, Tue & Thu, School of Social Work Rm 1025.
+    * Office hours: 2-3:30pm, Tue & Thu, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 1025.
 
