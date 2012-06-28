@@ -41,9 +41,9 @@ title:  Wang, Wei's Teaching Page
 
 -   **Method of Evaluation**
 
-     There will be 6 homework assignments, 1 midterms and 1 final exam.
-    Their contributions to your grade will be respectively 30%, 30% and
-    40%. A tentative calendar is given in the [pdf version of syllabus](syllabus.pdf). 
+     There will be 6 homework assignments, 2 midterms and 1 final exam.
+    Their contributions to your grade will be respectively 30%, 35% and
+    35%. A tentative calendar is given in the [pdf version of syllabus](syllabus.pdf). 
 
 
 -   **Textbook**
