@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: teaching
 title:  Wang, Wei's Teaching Page
 ---
 A list of my courses.
