@@ -32,7 +32,7 @@ title:  Wang, Wei's Teaching Page
 
 -   **Prerequisites**
 
-    One semester of univariate Calculus. You should be familiar with derivatives
+    One semester of uni-variate Calculus. You should be familiar with derivatives
     and integrals of basic functions, chain rules for differentiating
     composite functions and integration by substitution and integration
     by parts techniques. We will also do some statistical computation
