@@ -13,7 +13,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.1, 1.2
 
-  _HW1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44. Due at the end of Friday lecture._
+  _HW1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44. [Notes on R Code](./hw1.R). Due at the end of Friday lecture._
 
 - [Lecture 2](./lecture2.pdf), July 3   
 
