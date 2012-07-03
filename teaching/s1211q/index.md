@@ -13,7 +13,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.1, 1.2
 
-  <font color="red">HW1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
+  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
 
 - [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), July 3   
 
@@ -27,7 +27,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.4, 2.1, 2.2
 
-- [Lecture 4](./lecture4.pdf), July 6, HW1 Due
+- [Lecture 4](./lecture4.pdf), July 6, Homework 1 Due
 
   Probability Properties continued, Counting Techniques
 
