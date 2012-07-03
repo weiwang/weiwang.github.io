@@ -22,11 +22,11 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 3](./lecture3.pdf), July 5
 
-  Experimetns and Events, Event Operations, Axioms of Probability, Basic Properties
+  Experiments and Events, Event Operations, Axioms of Probability, Basic Properties
 
   Textbook sections covered: 1.4, 2.1, 2.2
 
-- [Lecture 4](./lecture4.pdf), July 6
+- [Lecture 4](./lecture4.pdf), July 6, HW1 Due
 
   Probability Properties continued, Counting Techniques
 
