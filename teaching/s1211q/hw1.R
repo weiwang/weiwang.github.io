@@ -2,7 +2,7 @@
 data1.12 <- c(.31, .35, .36, .36, .37, .38, .40, .40, .40, .41, .41, .42, .42, .42, .42, .42, .43, .44, .45, .46, .46, .47, .48, .48, .48, .51, .54, .54, .55, .58, .62, .66, .66, .67, .68, .75)
 ## sample size
 length(data1.12)
-## use stem function to create a stem-and-leaf display of data1.12. 
+## use stem function to create a stem-and-leaf display of data1.12.
 stem(data1.12)
 
 
@@ -12,9 +12,9 @@ data1.24 <- c(5434, 4948, 4521, 4570, 4900, 5702, 5241, 5112, 5015, 4659, 4806, 
 ## sample size
 length(data1.24)
 ## R doesn't support relative frequency histogram by default
-## Some hacking is needed
-x <- hist(data1.24, plot=F)
-x$counts <- x$counts/sum(x$counts)
+## Some trick to make Relative Frequency Histogram
+x <- hist(data1.24, plot=F, breaks=seq(4000, 6000, length.out=11))
+x$counts <- x$counts/sum(x$counts) # calculate relative frequency
 plot(x, ylab="Relative Frequency")
 
 
