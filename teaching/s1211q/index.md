@@ -15,7 +15,8 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
 
-- [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), July 3   
+- [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), [R Demo
+  Code](./R_demo_2.R), July 3
 
   Histogram, Measure of Location, Mean and Median,  Measure of Variability, Box Plot, Standard Deviation
 
@@ -31,5 +32,5 @@ S1211Q Introduction to Statistics with Calculus
 
   Probability Properties continued, Counting Techniques
 
-  Textbook sections covered: 2.2, 2.3              
+  Textbook sections covered: 2.2, 2.3
 
