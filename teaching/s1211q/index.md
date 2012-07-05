@@ -5,6 +5,7 @@ title:  Wang, Wei's Teaching Page
 S1211Q Introduction to Statistics with Calculus
 
 - Syllabus \[[html](./syllabus.html)\] \[[pdf](./syllabus.pdf)\]
+- [R resources](../r_resources.html)
 - [Intro and Teaser](./intro.html)
 - [Lecture 1](./lecture1.pdf), [R Demo Code](./R_demo_1.R), July 2
 
@@ -22,7 +23,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.2, 1.3, 1.4
 
-- [Lecture 3](./lecture3.pdf), July 5
+- [Little Quiz](./quiz3.html), [Lecture 3](./lecture3.pdf), July 5
 
   Experiments and Events, Event Operations, Axioms of Probability, Basic Properties
 
