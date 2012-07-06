@@ -36,3 +36,4 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 2.2, 2.3
 
+  <font color="red"> Homework 2</font>
