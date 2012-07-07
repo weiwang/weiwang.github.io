@@ -36,7 +36,16 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 2.2, 2.3
 
-  <font color="red"> Homework 2: Excercise 1.54, 2.3, 2.8, 2.11, 2.26, 2.29, 2.35, 2.38, 2.48, 2.56, 2.59, 2.60, 2.74, 2.78, 2.80.</font> Due at the end of Wed July 11th's lecture.
+  <font color="red"> Homework 2: Exercises 
+  - 1.54 (Boxplot)
+  - 2.3, 2.8 (Events)
+  - 2.11, 2.26 (Probability)
+  - 2.29, 2.35, 2.38 (Counting)
+  - 2.56, 2.59 (Conditional Probability)
+  - 2.74, 2.78, 2.80 (Independence)</font> 
+
+
+  Due at the end of Wed July 11^th lecture.
 
 - [Lecture 5](./lecture5.pdf), July 9
 
@@ -51,3 +60,13 @@ S1211Q Introduction to Statistics with Calculus
   Textbook sections covered: 3.1, 3.2, 3.3
 
   <font color="red">Midterm 1 covers materials up to this lecture.</font>
+
+- [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
+
+  Binomial, Hypergeometric and Poisson Distributions
+  
+- [Lecture 8](./lecture8.pdf), July 12
+
+  Continuous Probability Distribution, 1^st midterm
+
+
