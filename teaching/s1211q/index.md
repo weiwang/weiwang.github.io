@@ -59,7 +59,9 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 3.1, 3.2, 3.3
 
-  <font color="red">Midterm 1 covers materials up to this lecture.</font>
+  <font color="red">Midterm 1 covers materials up to this lecture.
+  
+  Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>
 
 - [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
 
