@@ -55,9 +55,9 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 6](./lecture6.pdf), July 10
 
-  Random Variables, Discrete Distributions, Expected Values
+  Independence, Random Variables, Discrete Distributions, Expected Values
   
-  Textbook sections covered: 3.1, 3.2, 3.3
+  Textbook sections covered: 2.4, 3.1, 3.2, 3.3
 
   <font color="red">Midterm 1 covers materials up to this lecture.
   
