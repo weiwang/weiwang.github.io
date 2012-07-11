@@ -55,9 +55,9 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 6](./lecture6.pdf), July 10
 
-  Independence, Random Variables, Discrete Distributions, Expected Values
+  Independence, Random Variables, Discrete Distributions
   
-  Textbook sections covered: 2.4, 3.1, 3.2, 3.3
+  Textbook sections covered: 2.5, 3.1, 3.2
 
   <font color="red">Midterm 1 covers materials up to this lecture.
   
@@ -65,10 +65,21 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
 
-  Binomial, Hypergeometric and Poisson Distributions
+  Expectation, Variance, Binomial, Hypergeometric
+  
+  Textbook sections covered: 3.3, 3.4 
+
+  <font color="red">Homework 3: 
+  - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
+  - 3.30, 3.37 (Expectation and Variance) 
+  - 3.47, 3.50, 3.68, 3.81 (Binomial, Hypergeometric and Poisson Distribution)</font>
+  
+  Due at the end of Wed July 18^th lecture
   
 - [Lecture 8](./lecture8.pdf), July 12
 
-  Continuous Probability Distribution, 1^st midterm
+  Poisson Distributions, 1^st midterm
+  
+  Textbook sections covered: 3.4
 
 
