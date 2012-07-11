@@ -14,7 +14,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.1, 1.2
 
-  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
+  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture. [Solutions](./hw1_solutions.pdf)
 
 - [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), [R Demo
   Code](./R_demo_2.R), July 3
@@ -61,7 +61,7 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red">Midterm 1 covers materials up to this lecture.
   
-  Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>
+  Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font> [Solutions](./midterm1_practice.pdf)
 
 - [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
 
