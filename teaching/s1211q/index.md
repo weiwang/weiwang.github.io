@@ -82,4 +82,27 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 3.4
 
+- [Lecture 9](./lecture9.pdf), July 16
+
+  Poisson Distribution, Continuous Probability Distributions, Normal Distribution
+  
+  Textbook sections covered: 3.6, 4.1, 4.2, 4.3 
+
+- [Lecture 10](./lecture10.pdf), July 17
+
+  Normal Distribution cont'd, Exponential Distribution
+  
+  Textbook sections covered: 4.3, 4.4
+
+- [Lecture 11](./lecture11.pdf), July 18
+
+  Joint Distributed Random Variables, Statistics and Their Sampling Distributions
+  
+  Textbook sections covered: 5.1, 5.2, 5.3
+
+- [Lecture 12](./lecture12.pdf), July 19
+
+  Sampling Distribution Cont'd, Central Limit Theorem
+  
+  Textbook sections covered: 5.3, 5.4, 6.1
 
