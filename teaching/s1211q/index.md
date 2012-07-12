@@ -65,20 +65,20 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
 
-  Expectation, Variance, Binomial, Hypergeometric
+  CDF, Expectation, Variance, Binomial Distribution
   
   Textbook sections covered: 3.3, 3.4 
 
   <font color="red">Homework 3: 
   - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
-  - 3.30, 3.37 (Expectation and Variance) 
-  - 3.47, 3.50, 3.68, 3.81 (Binomial, Hypergeometric and Poisson Distribution)</font>
+  - 3.30, 3.33, 3.37 (Expectation and Variance) 
+  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)</font>
   
   Due at the end of Wed July 18^th lecture
   
 - [Lecture 8](./lecture8.pdf), July 12
 
-  Poisson Distributions, 1^st midterm
+  Binomial Distribution cont'd, 1^st midterm
   
   Textbook sections covered: 3.4
 
