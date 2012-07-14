@@ -84,7 +84,7 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 9](./lecture9.pdf), July 16
 
-  Poisson Distribution, Continuous Probability Distributions, Normal Distribution
+  Poisson Distribution, Continuous Probability Distributions, Uniform Distribution, Normal Distribution
   
   Textbook sections covered: 3.6, 4.1, 4.2, 4.3 
 
