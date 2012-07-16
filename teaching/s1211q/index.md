@@ -78,7 +78,7 @@ S1211Q Introduction to Statistics with Calculus
   
 - [Lecture 8](./lecture8.pdf), July 12
 
-  Binomial Distribution cont'd, 1^st midterm
+  Binomial Distribution Cont'd, 1^st midterm
   
   Textbook sections covered: 3.4
 
@@ -90,7 +90,7 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 10](./lecture10.pdf), July 17
 
-  Normal Distribution cont'd, Exponential Distribution
+  Normal Distribution Cont'd, Exponential Distribution
   
   Textbook sections covered: 4.3, 4.4
 
