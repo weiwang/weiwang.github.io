@@ -43,7 +43,7 @@ S1211Q Introduction to Statistics with Calculus
   - 2.29, 2.35, 2.38 (Counting)
   - 2.56, 2.59 (Conditional Probability)
   - 2.74, 2.78, 2.80 (Independence)</font> 
-
+  - [Solutions](./hw2_solutions.pdf)
 
   Due at the end of Wed July 11^th lecture.
 
