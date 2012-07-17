@@ -84,19 +84,19 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Little Quiz](./quiz9.html), [Lecture 9](./lecture9.pdf), [R Demo](./R_demo_9.R), July 16
 
-  Poisson Distribution, Continuous Probability Distributions, Uniform Distribution, Normal Distribution
-  
-  Textbook sections covered: 3.6, 4.1, 4.2, 4.3 
+  Poisson Distribution, Continuous Probability Distributions, Uniform Distribution
 
-- [Lecture 10](./lecture10.pdf), July 17
+  Textbook sections covered: 3.6, 4.1, 4.2
 
-  Normal Distribution Cont'd, Exponential Distribution
+- [Little Quiz](./quiz10.html), [Lecture 10](./lecture10.pdf), July 17
+
+  Normal Distribution, Exponential Distribution
   
   Textbook sections covered: 4.3, 4.4
 
 - [Lecture 11](./lecture11.pdf), July 18
 
-  Joint Distributed Random Variables, Statistics and Their Sampling Distributions
+  Jointly Distributed Random Variables, Statistics and Their Sampling Distributions
   
   Textbook sections covered: 5.1, 5.2, 5.3
 
