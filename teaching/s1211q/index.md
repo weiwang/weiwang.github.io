@@ -14,7 +14,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.1, 1.2
 
-  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture. [Solutions](./hw1_solutions.pdf)
+  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture. 
 
 - [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), [R Demo
   Code](./R_demo_2.R), July 3
@@ -43,7 +43,6 @@ S1211Q Introduction to Statistics with Calculus
   - 2.29, 2.35, 2.38 (Counting)
   - 2.56, 2.59 (Conditional Probability)
   - 2.74, 2.78, 2.80 (Independence)</font> 
-  - [Solutions](./hw2_solutions.pdf)
 
   Due at the end of Wed July 11^th lecture.
 
@@ -61,7 +60,7 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red">Midterm 1 covers materials up to this lecture.
   
-  Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font> [Solutions](./midterm1_practice.pdf)
+  Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font> 
 
 - [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
 
@@ -94,7 +93,7 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 4.3, 4.4
 
-- [Lecture 11](./lecture11.pdf), July 18
+- [Little Quiz](./quiz11.html), [Lecture 11](./lecture11.pdf), July 18
 
   Jointly Distributed Random Variables, Statistics and Their Sampling Distributions
   
