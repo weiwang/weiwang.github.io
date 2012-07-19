@@ -113,5 +113,5 @@ S1211Q Introduction to Statistics with Calculus
 
   Statistics and Their Sampling Distributions
   
-  Textbook sections covered: 5.3, 5.4
+  Textbook sections covered: 5.3, 5.4, 5.5
 
