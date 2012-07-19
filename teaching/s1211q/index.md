@@ -71,7 +71,8 @@ S1211Q Introduction to Statistics with Calculus
   <font color="red">Homework 3: 
   - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
   - 3.30, 3.33, 3.37 (Expectation and Variance) 
-  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)</font>
+  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)
+  - [Solutions](./hw3_solutions.pdf)</font>
   
   Due at the end of Wed July 18^th lecture
   
