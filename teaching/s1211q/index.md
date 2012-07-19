@@ -99,6 +99,13 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 5.1, 5.2, 5.3
 
+  <font color="red">Homework 4: 
+  - 4.2, 4.4 (Continuous Distributions) 
+  - 4.12, 4.15, 4.19 (CDF and Expected Values) 
+  - 4.28 e,f,g; 4.29 a, c, d; 4.36, 4.45 (Normal Distribution)
+  - 4.60 (Exponential Distribution)
+  - 5.7, 5.22 (Joint Distribution)</font>
+
 - [Lecture 12](./lecture12.pdf), July 19
 
   Sampling Distribution Cont'd, Central Limit Theorem
