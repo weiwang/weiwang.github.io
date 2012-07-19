@@ -96,9 +96,9 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Little Quiz](./quiz11.html), [Lecture 11](./lecture11.pdf), July 18
 
-  Jointly Distributed Random Variables, Statistics and Their Sampling Distributions
+  Jointly Distributed Random Variables
   
-  Textbook sections covered: 5.1, 5.2, 5.3
+  Textbook sections covered: 5.1, 5.2
 
   <font color="red">Homework 4: 
   - 4.2, 4.4 (Continuous Distributions) 
@@ -111,7 +111,7 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 12](./lecture12.pdf), July 19
 
-  Sampling Distribution Cont'd, Central Limit Theorem
+  Statistics and Their Sampling Distributions
   
-  Textbook sections covered: 5.3, 5.4, 6.1
+  Textbook sections covered: 5.3, 5.4
 

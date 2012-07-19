@@ -55,5 +55,5 @@ title:  Wang, Wei's Teaching Page
     * Ran He
     * 1255 Amsterdam Ave, Rm 1019
     * rh2528@columbia.edu
-    * Office hours: 1:30-3pm, Tue & Thu, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 1025.
+    * Office hours: 4-5:30pm, Tue & Thu, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 1025.
 
