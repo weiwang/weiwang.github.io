@@ -106,6 +106,8 @@ S1211Q Introduction to Statistics with Calculus
   - 4.60 (Exponential Distribution)
   - 5.7, 5.22 (Joint Distribution)</font>
 
+  Due at the end of Tue July 24^th lecture       
+
 - [Lecture 12](./lecture12.pdf), July 19
 
   Sampling Distribution Cont'd, Central Limit Theorem
