@@ -115,7 +115,7 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 5.3, 5.4
 
-- [Lecture 13](./lecture13.pdf), July 23
+- [Little Quiz](./quiz13.html), [Lecture 13](./lecture13.pdf), [R Demo](./R_demo_13.R), July 23
 
   Central Limit Theorem, Point Estimation
   
