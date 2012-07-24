@@ -123,19 +123,26 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 14](./lecture14.pdf), July 24
 
-  Intro to Confidence Interval, Large-sample CI for a Population Mean, CI for a Population Proportion
+  Point Estimation Cont'd, Intro to Confidence Interval
   
-  Textbook sections covered: 7.1, 7.2
+  Textbook sections covered: 6.2, 7.1
+
+  <font color="red">2^nd Midterm Coverage
+  - 3.3, 3.4, 3.6(no Poisson Process)
+  - 4.1, 4.2, 4.3(no Approximating the Binomial Distribution), 4.4(The Exponential Part), 
+  - 5.1, 5.2(understand the concepts, no calculation required), 5.4, 5.5
+  - 6.1
+  </font>
 
 - [Lecture 15](./lecture15.pdf), July 25
 
-  The t Distributions, CI based on t Distributions
+  Large-sample CI for a Population Mean, CI for a Population Proportion, The t Distributions
   
-  Textbook sections covered: 7.3
+  Textbook sections covered: 7.2, 7.3
 
 - [Lecture 16](./lecture16.pdf), July 26
 
-  Intro to Hypothesis Testing, 2^nd midterm
+  Intervals Based on t Distribution, 2^nd midterm
   
-  Textbook sections covered: 8.1
+  Textbook sections covered: 7.3
 
