@@ -71,7 +71,7 @@ S1211Q Introduction to Statistics with Calculus
   <font color="red">Homework 3: 
   - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
   - 3.30, 3.33, 3.37 (Expectation and Variance) 
-  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)
+  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)</font>
   
   Due at the end of Wed July 18^th lecture
   
@@ -120,18 +120,28 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 5.4, 6.1, 6.2
 
-- [Lecture 14](./lecture14.pdf), July 24
+- [Little Quiz](./quiz14.html), [Lecture 14](./lecture14.pdf), July 24
 
   Point Estimation Cont'd, Intro to Confidence Interval
   
   Textbook sections covered: 6.2, 7.1
 
-  <font color="red">2^nd Midterm Coverage
+  <font color="red">Homework 5: 
+  - 5.46, 5.50, 5.53 (Distribution of Sample Mean)
+  - 5.60 (Distribution of Linear Combinatinos)  
+  - 6.3, 6.5, 6.28 (Point Estimation)
+  - 7.3, 7.6 (Confidence Interval)</font>
+  
+  Due at the end of Tue July 31^st lecture
+
+  <font color="red">2^nd Midterm Coverage in Sections
   - 3.3, 3.4, 3.6(no Poisson Process)
   - 4.1, 4.2, 4.3(no Approximating the Binomial Distribution), 4.4(The Exponential Part), 
   - 5.1, 5.2(understand the concepts, no calculation required), 5.4, 5.5
   - 6.1
   </font>
+
+  <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font>
 
 - [Lecture 15](./lecture15.pdf), July 25
 
