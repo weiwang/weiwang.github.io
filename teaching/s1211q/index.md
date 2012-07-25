@@ -128,7 +128,7 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red">Homework 5: 
   - 5.46, 5.50, 5.53 (Distribution of Sample Mean)
-  - 5.60 (Distribution of Linear Combinatinos)  
+  - 5.60 (Distribution of Linear Combinations)  
   - 6.3, 6.5, 6.28 (Point Estimation)
   - 7.3, 7.6 (Confidence Interval)</font>
   
@@ -154,4 +154,34 @@ S1211Q Introduction to Statistics with Calculus
   Intervals Based on t Distribution, 2^nd midterm
   
   Textbook sections covered: 7.3
+
+- [Lecture 17](./lecture17.pdf), July 30
+
+  Intro to Hypothesis Testing, Testing Procedures and Errors
+  
+  Textbook sections covered: 8.1
+
+- [Lecture 18](./lecture18.pdf), July 31
+
+  Testing Hypothesis about a Single Mean and Proportion
+  
+  Textbook sections covered: 8.2, 8.3
+
+- [Lecture 19](./lecture19.pdf), August 1
+
+  P-values, Intro to Two Samples Inference
+  
+  Textbook sections covered: 8.4, 9.1
+
+- [Lecture 20](./lecture20.pdf), August 2
+
+  Two-Sample t test and CI, Paired Data
+  
+  Textbook sections covered: 9.2, 9.3
+
+
+
+
+
+
 
