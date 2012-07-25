@@ -143,7 +143,7 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font>[Solutions](./mid2_practice_solutions.pdf)
 
-- [Lecture 15](./lecture15.pdf), July 25
+- [Little Quiz](./quiz15.html), [Lecture 15](./lecture15.pdf), July 25
 
   Large-sample CI for a Population Mean, CI for a Population Proportion, The t Distributions
   
