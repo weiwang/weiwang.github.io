@@ -105,6 +105,7 @@ S1211Q Introduction to Statistics with Calculus
   - 4.28 e, f, g; 4.29 a, c, d; 4.36, 4.45 (Normal Distribution)
   - 4.60 (Exponential Distribution)
   - 5.7, 5.22 (Joint Distribution)</font>
+  - [Solutions](./hw4_solutions.pdf)
 
   Due at the end of Tue July 24^th lecture       
 
