@@ -176,11 +176,31 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 20](./lecture20.pdf), August 2
 
-  Two-Sample t test and CI, Paired Data
+  Two-Sample t test and CI, Scatter Plot
   
-  Textbook sections covered: 9.2, 9.3
+  Textbook sections covered: 9.2, 9.3, 12.1
 
+- [Lecture 21](./lecture21.pdf), August 6
 
+  Simple Linear Regresssion, Estimation of Model Parameters
+  
+  Textbook sections covered: 12.1, 12.2
+
+- [Lecture 22](./lecture22.pdf), August 7
+
+  Inference about the Slope, Correlation
+  
+  Textbook sections covered: 12.3, 12.5
+
+- [Lecture 23](./lecture23.pdf), August 8
+
+  Review
+
+- Lecture 24, August 9
+
+  Final Exam
+  
+  
 
 
 
