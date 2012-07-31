@@ -105,7 +105,6 @@ S1211Q Introduction to Statistics with Calculus
   - 4.28 e, f, g; 4.29 a, c, d; 4.36, 4.45 (Normal Distribution)
   - 4.60 (Exponential Distribution)
   - 5.7, 5.22 (Joint Distribution)</font>
-  - [Solutions](./hw4_solutions.pdf)
 
   Due at the end of Tue July 24^th lecture       
 
@@ -142,7 +141,7 @@ S1211Q Introduction to Statistics with Calculus
   - 6.1
   </font>
 
-  <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font>[Solutions](./mid2_practice_solutions.pdf)
+  <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font>
 
 - [Little Quiz](./quiz15.html), [Lecture 15](./lecture15.pdf), July 25
 
@@ -182,7 +181,7 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 21](./lecture21.pdf), August 6
 
-  Simple Linear Regresssion, Estimation of Model Parameters
+  Simple Linear Regression, Estimation of Model Parameters
   
   Textbook sections covered: 12.1, 12.2
 
