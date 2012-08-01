@@ -161,7 +161,7 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 8.1
 
-- [Lecture 18](./lecture18.pdf), July 31
+- [Lecture 18](./lecture18.pdf), July 31, Homework 5 Due
 
   Testing Hypothesis about a Single Mean and Proportion
   
@@ -172,6 +172,16 @@ S1211Q Introduction to Statistics with Calculus
   P-values, Intro to Two Samples Inference
   
   Textbook sections covered: 8.4, 9.1
+
+  <font color="red">Homework 6: 
+  - 7.13, 7.18 (Intervals based on Normal Distribution)
+  - 7.32, 7.34  (t Intervals)  
+  - 8.5 (Test Procedure)
+  - 8.16, 8.25, 8.26, 8.29a (Test Concerning a Population Mean)
+  - 8.37 (Test Concerning a Population Proportion)
+  - 8.51a,b,c, 8.55, 8.58 (P-Values)</font>
+  
+  Due at the end of Wed Aug 8^th lecture
 
 - [Lecture 20](./lecture20.pdf), August 2
 
