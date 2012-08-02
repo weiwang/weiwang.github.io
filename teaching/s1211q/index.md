@@ -183,7 +183,7 @@ S1211Q Introduction to Statistics with Calculus
   
   Due at the end of Wed Aug 8^th lecture
 
-- [Lecture 20](./lecture20.pdf), August 2
+- [Little Quiz](./quiz20.html), [Lecture 20](./lecture20.pdf), August 2
 
   Two-Sample t test and CI, Scatter Plot
   
