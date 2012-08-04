@@ -175,7 +175,7 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red">Homework 6: 
   - 7.13, 7.18 (Intervals based on Normal Distribution)
-  - 7.32, 7.34  (t Intervals)  
+  - 7.32, 7.34a  (t Intervals)  
   - 8.5 (Test Procedure)
   - 8.16, 8.25, 8.26, 8.29a (Test Concerning a Population Mean)
   - 8.37 (Test Concerning a Population Proportion)
