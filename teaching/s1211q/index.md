@@ -131,7 +131,8 @@ S1211Q Introduction to Statistics with Calculus
   - 5.60 (Distribution of Linear Combinations)  
   - 6.3, 6.5, 6.28 (Point Estimation)
   - 7.3, 7.6 (Confidence Interval)</font>
-  
+  - [Solutions](./hw5_solutions.pdf)
+
   Due at the end of Tue July 31^st lecture
 
   <font color="red">2^nd Midterm Coverage in Sections
@@ -142,7 +143,7 @@ S1211Q Introduction to Statistics with Calculus
   </font>
 
   <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font>
-
+  
 - [Little Quiz](./quiz15.html), [Lecture 15](./lecture15.pdf), July 25
 
   Large-sample CI for a Population Mean, CI for a Population Proportion, The t Distributions
@@ -194,6 +195,8 @@ S1211Q Introduction to Statistics with Calculus
   Simple Linear Regression, Estimation of Model Parameters
   
   Textbook sections covered: 12.1, 12.2
+
+  <font color="red"> Final Exam Practice Problems: 2.38, 2.100, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58, 12.12 </font> I will go over these problems on Tuesday and Wednesday's lectures.
 
 - [Lecture 22](./lecture22.pdf), August 7
 
