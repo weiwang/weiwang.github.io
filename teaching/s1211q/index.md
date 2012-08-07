@@ -14,7 +14,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Textbook sections covered: 1.1, 1.2
 
-  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture. 
+  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). [Solutions](./hw1_solutions.pdf) Due at the end of Friday lecture. 
 
 - [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), [R Demo
   Code](./R_demo_2.R), July 3
@@ -42,7 +42,8 @@ S1211Q Introduction to Statistics with Calculus
   - 2.11, 2.26 (Probability)
   - 2.29, 2.35, 2.38 (Counting)
   - 2.56, 2.59 (Conditional Probability)
-  - 2.74, 2.78, 2.80 (Independence)</font> 
+  - 2.74, 2.78, 2.80 (Independence)
+  - [Solutions](./hw2_solutions.pdf)</font> 
 
   Due at the end of Wed July 11^th lecture.
 
@@ -62,6 +63,8 @@ S1211Q Introduction to Statistics with Calculus
   
   Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font> 
 
+  [Solutions](./mid1_practice_solutions.pdf)
+
 - [Lecture 7](./lecture7.pdf), July 11, Homework 2 Due.
 
   CDF, Expectation, Variance, Binomial Distribution
@@ -71,7 +74,8 @@ S1211Q Introduction to Statistics with Calculus
   <font color="red">Homework 3: 
   - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
   - 3.30, 3.33, 3.37 (Expectation and Variance) 
-  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)</font>
+  - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)
+  - [Solutions](./hw3_solutions.pdf)</font>
   
   Due at the end of Wed July 18^th lecture
   
@@ -104,7 +108,8 @@ S1211Q Introduction to Statistics with Calculus
   - 4.12, 4.15, 4.19 (CDF and Expected Values) 
   - 4.28 e, f, g; 4.29 a, c, d; 4.36, 4.45 (Normal Distribution)
   - 4.60 (Exponential Distribution)
-  - 5.7, 5.22 (Joint Distribution)</font>
+  - 5.7, 5.22 (Joint Distribution)
+  - [Solutions](./hw4_solutions.pdf)</font>
 
   Due at the end of Tue July 24^th lecture       
 
@@ -143,6 +148,8 @@ S1211Q Introduction to Statistics with Calculus
   </font>
 
   <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font>
+
+  [Solution](./mid2_practice_solutions.pdf)
   
 - [Little Quiz](./quiz15.html), [Lecture 15](./lecture15.pdf), July 25
 
