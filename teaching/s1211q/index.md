@@ -205,6 +205,8 @@ S1211Q Introduction to Statistics with Calculus
 
   <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean), 12.12 </font> 
 
+  [Solutions](./final_practice_solutions.pdf)
+
   I will go over these problems on Tuesday and Wednesday's lectures.
 
 - [Lecture 22](./lecture22.pdf), [R Code](./R_demo_22.R), August 7
