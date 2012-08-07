@@ -207,9 +207,9 @@ S1211Q Introduction to Statistics with Calculus
 
   I will go over these problems on Tuesday and Wednesday's lectures.
 
-- [Lecture 22](./lecture22.pdf), August 7
+- [Lecture 22](./lecture22.pdf), [R Code](./R_demo_22.R), August 7
 
-  Inference about the Slope, Correlation
+  Inference about the Slope
   
   Textbook sections covered: 12.3, 12.5
 
