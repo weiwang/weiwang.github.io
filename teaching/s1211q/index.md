@@ -215,7 +215,7 @@ S1211Q Introduction to Statistics with Calculus
   
   Textbook sections covered: 12.3, 12.5
 
-- [Lecture 23](./lecture23.pdf), August 8
+- Lecture 23, August 8
 
   Review
 
