@@ -213,7 +213,7 @@ S1211Q Introduction to Statistics with Calculus
 
   Inference about the Slope
   
-  Textbook sections covered: 12.3, 12.5
+  Textbook sections covered: 12.3
 
 - Lecture 23, August 8
 
