@@ -4,6 +4,8 @@ title:  Wang, Wei's Teaching Page
 ---
 S1211Q Introduction to Statistics with Calculus
 
+<img src="S1211_2012.jpg" width="600" height="450" />
+
 - Syllabus \[[html](./syllabus.html)\] \[[pdf](./syllabus.pdf)\]
 - [R resources](../r_resources.html)
 - [Intro and Teaser](./intro.html)
