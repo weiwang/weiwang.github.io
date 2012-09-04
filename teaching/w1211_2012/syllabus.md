@@ -2,7 +2,7 @@
 layout: teaching
 title:  Wang, Wei's Teaching Page
 ---
-## S1211Q Syllabus
+## W1211 Syllabus
 
 -   **Instructor**
 
@@ -10,25 +10,19 @@ title:  Wang, Wei's Teaching Page
     * 1255 Amsterdam Ave, Rm 901
     * New York, NY 10027
     * ww2243@columbia.edu
-    * Office hours: 4-5:30pm, Mon & Wed, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 1025
+    * Office hours: 4-5pm, Mon & Wed, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 901
 
 -   **Lecture Time**
 
-    6:15-7:50pm Monday-Thursday, 503 Hamilton Hall, July 2^nd -August
-    9^th
+    8:40-9:55am MW, 207 Math
 
 -   **Course Description**
 
-    We will cover topics including discrete combinatorial probability;
-    common discrete and continuous random variables and their
-    distributional theory; population mean, variance, covariance and
+    We will cover topics including discrete combinatorial probability; discrete and continuous distributions; 
+    common discrete and continuous random variables; population mean, variance, covariance and
     their sample analogs; point estimation; confidence interval;
-    hypothesis testing; linear regression; Bayesian methods.
+    hypothesis testing; linear regression.
 
-    But since our section meets 95 minutes per day 4 days per week for
-    only 6 weeks, the pace will be more intense than if the course is
-    spread out over an entire semester. We will selectively cover the
-    topics listed above.
 
 -   **Prerequisites**
 
@@ -41,9 +35,9 @@ title:  Wang, Wei's Teaching Page
 
 -   **Method of Evaluation**
 
-     There will be 6 homework assignments, 2 midterms and 1 final exam.
-    Their contributions to your grade will be respectively 30%, 35% and
-    35%. A tentative calendar is given in the [pdf version of syllabus](syllabus.pdf). 
+    There will be weekly homework assignments (due on Wednesdays), 2 quizzes (25 min each), 1 midterm (75 min), and 1 final exam (2 hours).
+    Their contributions to your grade will be respectively 30%, 10%, 25%, and
+    35%. 
 
 
 -   **Textbook**
@@ -52,8 +46,5 @@ title:  Wang, Wei's Teaching Page
 
 -   **Teaching Assistant**
 
-    * Ran He
-    * 1255 Amsterdam Ave, Rm 1019
-    * rh2528@columbia.edu
-    * Office hours: 4-5:30pm, Tue & Thu, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 1025.
+    * Phyllis Wan and Evan Blumgart
 

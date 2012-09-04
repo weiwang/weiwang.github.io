@@ -6,7 +6,7 @@ W1211 Introduction to Statistics with Calculus
 
 - Syllabus \[[html](./syllabus.html)\] \[[pdf](./syllabus.pdf)\]
 - [R resources](../r_resources.html)
-- [Intro and Teaser](./intro.html)
+- Lecture 1 [Intro and Teaser](./intro.html), R and RStudio Setup
 
 
 

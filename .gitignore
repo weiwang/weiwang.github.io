@@ -8,6 +8,9 @@ Thumbs.db
 
 .rbenv-version
 .rvmrc
+.aux
+.log
+.out
 
 *#
 #*
