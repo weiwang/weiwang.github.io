@@ -16,5 +16,11 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 1.1, 1.2
 
+- [Lecture 3](./lecture3.pdf), Sep 12th
+
+  Measure of Location, Mean and Median,  Measure of Variability, Box Plot, Standard Deviation
+
+  Textbook sections covered: 1.2, 1.3, 1.4        
+
 
 
