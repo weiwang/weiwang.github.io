@@ -48,3 +48,4 @@ title:  Wang, Wei's Teaching Page
 
     * Phyllis Wan and Evan Blumgart
 
+-  **[Back to the course page](./index.html)**
