@@ -6,7 +6,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - Syllabus \[[html](./syllabus.html)\] \[[pdf](./syllabus.pdf)\]
 - [R resources](./r_resources.html)
-- [Lecture 1](./lecture1.html), Sep 5th
+- [Lecture 1](./lecture1.html), [R Demo Code](./r_demo_1.R), Sep 5th
 
   Intro, R and RStudio Setup
 
