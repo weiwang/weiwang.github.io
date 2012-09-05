@@ -10,6 +10,8 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Intro, R and RStudio Setup
 
+  <font color="red">Homework 0: Install [R](http://cran.r-project.org/) and [RStudio](http://rstudio.org/download/desktop) </font>
+
 - [Lecture 2](./lecture2.pdf), Sep 10th
 
   Descriptive Statistics, Stem-and-leaf Displays, Histogram
