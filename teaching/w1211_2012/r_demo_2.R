@@ -1,7 +1,8 @@
+## stem-and-leaf display example
 grades <- c(75, 84, 81, 86, 62, 91, 77, 95, 98, 88, 77, 73, 81)
 stem(grades)
 
-library(ggplot2)
+library(ggplot2) # load ggplot2 to use diamonds data set
 data(diamonds) # use diamonds data set
 table(diamonds$color) # frequency table of discrete variables
 
@@ -12,3 +13,5 @@ hist(LGA, freq=TRUE) # freq histogram
 hist(LGA, freq=FALSE) # density histogram
 
 summary(LGA) # gives minimum, first quartile, median, mean, third quartile and maximum of a sample
+
+quantile(LGA, probs=c(0.1, 0.3, 0.95)) # general percentiles of a sample
