@@ -16,17 +16,17 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Descriptive Statistics (Data Visualization), Stem-and-leaf Displays, Histogram, Measure of Location
 
-  Textbook sections covered: 1.1, 1.2
+  Textbook sections covered: 1.1, 1.2, 1.3
 
 - [Lecture 3](./lecture3.pdf), Sep 12th
 
-  Measure of Location, Measure of Variability, Box Plot, Standard Deviation
+  Measure of Variability, Standard Deviation, Box Plot; Experiments and Events, Event Operations
 
-  Textbook sections covered: 1.2, 1.3, 1.4
+  Textbook sections covered: 1.4, 2.1
 
 - [Lecture 4](./lecture4.pdf), Sep 17th
 
-  Experiments and Events, Event Operations, Axioms of Probability, Basic Properties
+  Axioms of Probability, Basic Properties
 
   Textbook sections covered: 2.1, 2.2
 
