@@ -42,6 +42,6 @@ title:  Wang, Wei's Teaching Page
 
     Phyllis Wan (pw2348@columbia.edu) and Evan Blumgart (eib2114@columbia.edu)
     
-    Office Hours: TBA
+    Office Hours: 3-6pm, Tue & Thu, SSW 10th floor lounge (temporarily)
 
 -   **[Back to the course page](./index.html)**
