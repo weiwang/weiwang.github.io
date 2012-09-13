@@ -25,12 +25,15 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   Textbook sections covered: 1.4, 2.1, 2.2
 
   <font color="red">
-  Homework 1:
-  - 1.24 (Histogram);
+  Homework 1: 
+
+  1.24 means exercise problem 24 in chapter 1.
+  - 1.24 (Histogram) Note: Construct a density histogram instead of a relative frequency histogram.
   - 1.36, 1.38 (Measure of Location);
   - 1.44 (Measure of Variability);
   - 2.3, 2.8 (Events);
   - 2.11, 2.26 (Probability);
+  - [Accompanying R codes](./r_code_hw1.R)
   </font>
   
   Due on Wed Sep 19^th.

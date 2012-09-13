@@ -36,7 +36,7 @@ title:  Wang, Wei's Teaching Page
 
 -   **Textbook**
 
-    _Probability and Statistics for Engineering and the Sciences_, 8th edition, Jay Devore, Brooks/Cole, 2012
+    [_Probability and Statistics for Engineering and the Sciences_](http://www.amazon.com/Probability-Statistics-Engineering-Sciences-Devore/dp/0538733527/ref=pd_sxp_f_pt), 8th edition, Jay Devore, Brooks/Cole, 2012
 
 -   **Teaching Assistant**
 
