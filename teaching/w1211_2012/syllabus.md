@@ -1,4 +1,4 @@
----
+i---
 layout: teaching
 title:  Wang, Wei's Teaching Page
 ---
@@ -10,7 +10,7 @@ title:  Wang, Wei's Teaching Page
     * 1255 Amsterdam Ave, Rm 901
     * New York, NY 10027
     * ww2243@columbia.edu
-    * Office hours: 4-5pm, Mon & Wed, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 901
+    * Office hours: 5-6pm, Mon & Wed, [School of Social Work](http://www.columbia.edu/about_columbia/map/ssw.html) Rm 901
 
 -   **Lecture Time**
 
