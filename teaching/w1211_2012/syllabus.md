@@ -1,4 +1,4 @@
-i---
+---
 layout: teaching
 title:  Wang, Wei's Teaching Page
 ---
