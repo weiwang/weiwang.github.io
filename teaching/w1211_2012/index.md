@@ -38,25 +38,31 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   Due on Wed Sep 19^th.
 
-- [Lecture 4](./lecture4.pdf), Sep 17th
+- [Lecture 4](./lecture4.pdf),  [R Demo Code](./r_demo_4.R), Sep 17th
 
-  Basic Properties
+  Law of Large Numbers, Basic Properties, Counting Techniques
 
   Textbook sections covered: 2.1, 2.2
 
 - [Lecture 5](./lecture5.pdf), Sep 19th
 
-  Counting Techniques
+  Counting Techniques Cont'd, Conditional Probability and Independence
 
   Textbook sections covered: 2.3
 
-- [Lecture 6](./lecture6.pdf), Sep 24th
-
-  Conditional Probability and Independence
-
-  Textbook sections covered: 2.4, 2.5
 
 
+<!-- Random variables, probability distributions, pdf, cdf, conditional distribution.
 
+Mean, variance, correlation, conditional mean and variance, law of
+iterated expectations.
 
+Normal, chi-square,  F and t distributions.
 
+Law of large numbers, central limit theorem.
+
+Parameter estimation, unbiasedness, consistency, efficiency.
+
+Hypothesis testing, confidence intervals.
+
+Maximum likelihood.-->
