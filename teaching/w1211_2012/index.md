@@ -38,7 +38,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   Due on Wed Sep 19^th.
 
-- [Reveiw](./review4.html), [Lecture 4](./lecture4.pdf), [R Demo Code](./r_demo_4.R), Sep 17th
+- [Review](./review4.html), [Lecture 4](./lecture4.pdf), [R Demo Code](./r_demo_4.R), Sep 17th
 
   Law of Large Numbers, Basic Properties, Counting Techniques
 
