@@ -44,7 +44,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 2.2, 2.3
 
-- [Lecture 5](./lecture5.pdf), Sep 19th
+- [Review](./review5.html), [Lecture 5](./lecture5.pdf), Sep 19th
 
   Counting Techniques Cont'd, Conditional Probability, Bayes Theorem, Independence
 
