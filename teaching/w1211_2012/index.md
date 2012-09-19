@@ -46,21 +46,34 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Review](./review5.html), [Lecture 5](./lecture5.pdf), Sep 19th
 
-  Counting Techniques Cont'd, Conditional Probability, Bayes Theorem, Independence
+  Conditional Probability and Bayes Theorem
 
-  Textbook sections covered: 2.4, 2.5
+  Textbook sections covered: 2.4
 
-<!-- 
   <font color="red">
   Homework 2: 
 
-  - 2.29, 2.35, 2.38 (Counting);
-  - 2.48, 2.56, 2.59 (Conditional Probability)
-  - 2,74, 2.78, 2.80 (Independence);
+  - 2.29, 2.38 (Counting);
+  - 2.45, 2.56, 2.59, 2.60 (Conditional Probability)
+  - 2,74, 2.78 (Independence);
   </font>
   
   Due on Wed Sep 26^th
 
+- [Lecture 6](./lecture6.pdf), Sep 24th
+  
+  Independence, Random Variables, Discrete Distributions
+
+  Textbook sections covered: 2.5, 3.1, 3.2
+
+- [Lecture 7](./lecture7.pdf), Sep 26th
+  
+  CDF, Expectation
+
+  Textbook sections covered: 3.3
+
+
+<!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
 Mean, variance, correlation, conditional mean and variance, law of
