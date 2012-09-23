@@ -62,13 +62,13 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 6](./lecture6.pdf), Sep 24th
   
-  Independence, Random Variables, Discrete Distributions
+  Independence, Random Variables, CDF
 
   Textbook sections covered: 2.5, 3.1, 3.2
 
 - [Lecture 7](./lecture7.pdf), Sep 26th
   
-  CDF, Expectation
+  Expectation, Variance, Binomial Distribution
 
   Textbook sections covered: 3.3
 
