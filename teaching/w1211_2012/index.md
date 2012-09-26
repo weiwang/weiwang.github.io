@@ -66,7 +66,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 2.5, 3.1, 3.2
 
-- [Lecture 7](./lecture7.pdf), Sep 26th
+- [Review](./review7.html), [Lecture 7](./lecture7.pdf), Sep 26th
   
   Expectation, Variance, Binomial Distribution
 
