@@ -58,9 +58,9 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 2,74, 2.78 (Independence);
   </font>
   
-  Due on Wed Sep 26^th
+  Due on Mon Oct 1^st
 
-- [Lecture 6](./lecture6.pdf), Sep 24th
+- [Lecture 6](./lecture6.pdf), Sep 24^th
   
   Independence, Random Variables, CDF
 
@@ -68,10 +68,24 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Review](./review7.html), [Lecture 7](./lecture7.pdf), Sep 26th
   
-  Expectation, Variance, Binomial Distribution
+  Expectation, Variance
 
   Textbook sections covered: 3.3
 
+  <font color="red">
+  Homework 3: 
+
+  - 3.10, 3.14, 3.19, 3.24 (Discrete RVs and Distributions);
+  - 3.30, 3.39 (Expectation and Variance);
+  </font>
+
+  Due on Wed Oct 3^rd
+
+- [Lecture 8](./lecture8.pdf), Oct 1^st , Quiz 1
+  
+  Binomial Distribution
+
+  Textbook sections covered: 3.4
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
