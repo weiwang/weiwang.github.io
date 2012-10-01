@@ -41,7 +41,16 @@ title:  Wang, Wei's Teaching Page
 -   **Teaching Assistant**
 
     Phyllis Wan (pw2348@columbia.edu) and Evan Blumgart (eib2114@columbia.edu)
-    
-    Office Hours: 3-6pm, Tue & Thu, SSW 10th floor lounge (temporarily)
+
+    Monday 1-4 pm, Room 1025 SSW
+
+    Tuesday 4-6 pm, Room 903 SSW
+
+    Wednesday 4-6 pm, Room 903 SSW
+
+    Thursday 10-12:30 pm, Room 1025 SSW
+
+    Friday 12-1:30 pm, Room 903 SSW
+   
 
 -   **[Back to the course page](./index.html)**

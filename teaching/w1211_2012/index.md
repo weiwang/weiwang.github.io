@@ -87,6 +87,13 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 3.4
 
+- [Lecture 9](./lecture9.pdf), Oct 3
+  
+  Hypergeometric and Poisson Distribution
+
+  Textbook sections covered: 3.5, 3.6
+
+
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
