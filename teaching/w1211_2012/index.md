@@ -93,6 +93,15 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 3.5, 3.6
 
+  <font color="red">
+  Homework 4: 
+
+  - 3.47a,b,f,g; 3.49; 3.50; 3.58 (Binomial Distribution);
+  - 3.68 (Hypergeometric Distribution);   
+  - 3.81, 3.86 (Poisson Distribution)
+  </font>
+
+  Due on Wed Oct 10^th
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
