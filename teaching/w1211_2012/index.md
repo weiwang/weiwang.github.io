@@ -34,6 +34,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 2.3, 2.8 (Events);
   - 2.11, 2.26 (Probability);
   - [Accompanying R codes](./r_code_hw1.R)
+  - [Solutions](./HW_1_solutions.pdf)
   </font>
   
   Due on Wed Sep 19^th.
