@@ -110,6 +110,12 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 3.6, 4.1, 4.2
 
+- [Lecture 11](./lecture11.pdf), Oct 10^th
+  
+  Normal Distribution, Exponential Distribution, Probability Plots
+
+  Textbook sections covered: 4.3, 4.4, 4.6
+
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
