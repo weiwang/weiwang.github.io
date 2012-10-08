@@ -88,7 +88,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 3.4
 
-- [Lecture 9](./lecture9.pdf), Oct 3
+- [Lecture 9](./lecture9.pdf), Oct 3^rd
   
   Hypergeometric and Poisson Distribution
 
@@ -104,7 +104,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Due on Wed Oct 10^th
 
-- [Lecture 10](./lecture10.pdf), Oct 3
+- [Lecture 10](./lecture10.pdf), Oct 8^th
   
   Poisson Distribution, Poisson Processes, Continuous Probability Distribution, Uniform Distribution
 
