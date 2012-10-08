@@ -104,6 +104,12 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Due on Wed Oct 10^th
 
+- [Lecture 10](./lecture10.pdf), Oct 3
+  
+  Poisson Distribution, Poisson Processes, Continuous Probability Distribution, Uniform Distribution
+
+  Textbook sections covered: 3.6, 4.1, 4.2
+
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
