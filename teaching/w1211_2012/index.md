@@ -106,15 +106,36 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 10](./lecture10.pdf), Oct 8^th
   
-  Poisson Distribution, Poisson Processes, Continuous Probability Distribution, Uniform Distribution
+  Poisson Distribution, The Poisson Process, Continuous Probability Distribution, Uniform Distribution
 
   Textbook sections covered: 3.6, 4.1, 4.2
 
 - [Lecture 11](./lecture11.pdf), Oct 10^th
   
-  Normal Distribution, Exponential Distribution, Probability Plots
+  Normal Distribution, Exponential Distribution 
 
   Textbook sections covered: 4.3, 4.4, 4.6
+
+- [Lecture 12](./lecture12.pdf), Oct 15^th
+  
+  Probability Plots, Jointly Distributed Random Variables, Covariance and Correlation
+
+  Textbook sections covered: 4.6, 5.1, 5.2
+
+- [Lecture 13](./lecture13.pdf), Oct 17^th
+  
+  Statistics and Their Distributions, Distribution of The Sample Mean
+
+  Textbook sections covered: 5.3, 5.4
+
+- [Lecture 14](./lecture14.pdf), Oct 22^nd
+  
+  The Distribution of Linear Combination, Midterm Review
+  
+  Textbook sections covered: 5.5
+
+- Midterm, Oct 24^th
+
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
