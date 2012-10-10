@@ -57,7 +57,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 2.29, 2.38 (Counting);
   - 2.45, 2.56, 2.59, 2.60 (Conditional Probability)
   - 2,74, 2.78 (Independence);
-  [Solution](./HW_2_solutions.pdf)
+  - [Solutions](./HW_2_solutions.pdf)
   </font>
   
   Due on Mon Oct 1^st
