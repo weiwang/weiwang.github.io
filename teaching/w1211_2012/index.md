@@ -57,6 +57,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 2.29, 2.38 (Counting);
   - 2.45, 2.56, 2.59, 2.60 (Conditional Probability)
   - 2,74, 2.78 (Independence);
+  [Solution](./HW_2_solutions.pdf)
   </font>
   
   Due on Mon Oct 1^st
@@ -115,6 +116,18 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   Normal Distribution, Exponential Distribution 
 
   Textbook sections covered: 4.3, 4.4, 4.6
+
+  <font color="red">
+  Homework 5: 
+
+  - 4.4, 4.5 (Continuous Distribution);
+  - 4.12, 4.15 (CDF and Expected Values);   
+  - 4.28e,f,g; 4.29c,d,e; 4.42; 4.45 (Normal Distribution);
+  - 4.60, 4.70 (Exponential Distribution);
+  - 4.88 (Normal Probability Plot)
+  </font>
+  
+  Due on Wed Oct 17^th
 
 - [Lecture 12](./lecture12.pdf), Oct 15^th
   
