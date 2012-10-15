@@ -79,6 +79,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   - 3.10, 3.14, 3.19, 3.24 (Discrete RVs and Distributions);
   - 3.30, 3.39 (Expectation and Variance);
+  - [Solutions](./HW_3_solutions.pdf)
   </font>
 
   Due on Wed Oct 3^rd
@@ -131,24 +132,26 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 12](./lecture12.pdf), Oct 15^th
   
-  Probability Plots, Jointly Distributed Random Variables, Covariance and Correlation
+  Probability Plots, Jointly Distributed Random Variables,
 
   Textbook sections covered: 4.6, 5.1, 5.2
 
 - [Lecture 13](./lecture13.pdf), Oct 17^th
   
-  Statistics and Their Distributions, Distribution of The Sample Mean
+   Covariance and Correlation, Statistics and Their Distributions
 
   Textbook sections covered: 5.3, 5.4
 
+  <font color="red"> Midterm Practice Problems: 2.38, 2.63, 2.93, 2.101, 3.52, 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.22 </font>
+  
+
 - [Lecture 14](./lecture14.pdf), Oct 22^nd
   
-  The Distribution of Linear Combination, Midterm Review
+  The Distribution of The Sample Mean and Linear Combinations, Midterm Review
   
   Textbook sections covered: 5.5
 
 - Midterm, Oct 24^th
-
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
