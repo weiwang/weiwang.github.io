@@ -102,6 +102,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 3.47a,b,f,g; 3.49; 3.50; 3.58 (Binomial Distribution);
   - 3.68 (Hypergeometric Distribution);   
   - 3.81, 3.86 (Poisson Distribution)
+  - [Solutions](./HW4_solutions.pdf)     
   </font>
 
   Due on Wed Oct 10^th
@@ -134,22 +135,20 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   Probability Plots, Jointly Distributed Random Variables,
 
-  Textbook sections covered: 4.6, 5.1, 5.2
+  Textbook sections covered: 4.6, 5.1
 
 - [Lecture 13](./lecture13.pdf), Oct 17^th
   
-   Covariance and Correlation, Statistics and Their Distributions
+  Indepednece, Covariance and Correlation
 
-  Textbook sections covered: 5.3, 5.4
+  Textbook sections covered: 5.2
 
   <font color="red"> Midterm Practice Problems: 2.38, 2.63, 2.93, 2.101, 3.52, 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.22 </font>
   
 
 - [Lecture 14](./lecture14.pdf), Oct 22^nd
   
-  The Distribution of The Sample Mean and Linear Combinations, Midterm Review
-  
-  Textbook sections covered: 5.5
+  Midterm Review
 
 - Midterm, Oct 24^th
 
