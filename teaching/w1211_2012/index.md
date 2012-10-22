@@ -127,6 +127,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 4.28e,f,g; 4.29c,d,e; 4.42; 4.45 (Normal Distribution);
   - 4.60, 4.70 (Exponential Distribution);
   - 4.88 (Normal Probability Plot)
+  - [Solutions](./HW5_solutions.pdf) 
   </font>
   
   Due on Wed Oct 17^th
@@ -143,7 +144,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 5.2
 
-  <font color="red"> Midterm Practice Problems: 2.38, 2.63, 2.93, 2.101, 3.52, 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.22 </font>
+  <font color="red"> Midterm Practice Problems: 2.38, 2.63, 2.93, 2.101, 3.52, 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.22 [Solutions](./midterm_practice_solutions.pdf)</font>
   
 
 - [Lecture 14](./lecture14.pdf), Oct 22^nd
@@ -151,6 +152,18 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   Midterm Review
 
 - Midterm, Oct 24^th
+
+- [Lecture 16](./lecture16.pdf), Oct 29^th
+  
+  Conditional mean and variance, Law of Iterated Expectations, Statistics and Their Distributions
+
+  Textbook sections covered: 5.3
+
+- [Lecture 17](./lecture17.pdf), Oct 31^st
+  
+  Distribution of Sample Means and Linear Combinatinos, Central Limit Theorem
+
+  Textbook sections covered: 5.4, 5.5
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
