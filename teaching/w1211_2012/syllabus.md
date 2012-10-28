@@ -37,7 +37,7 @@ title:  Wang, Wei's Teaching Page
 
 -   ** Late Submission Policy** 
 
-    For problem sets that are due on Wednesdays, you will receive 80% credit (your actual grade times 80%) if handed in before the weekend, 50% credit if submitted next week before the following Wednesday's lecture, 0 credit thereafter. To request permission to submit a problem set late without penalty, email the instructor at least 12 hours before the lecture begins *with an explanation*.
+    For problem sets that are due on Wednesdays, you will receive 80% credit (your actual grade times 80%) if handed in before the weekend, 50% credit if submitted before the following Wednesday's lecture, 0 credit thereafter. To request permission to submit a problem set late without penalty, email the instructor at least 12 hours before the lecture begins *with an explanation*.
 
     The homework drop box is located at Rm 904 School of Social Work (the first room on the left down the hallway).
 
