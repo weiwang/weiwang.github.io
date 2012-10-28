@@ -149,19 +149,19 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 14](./lecture14.pdf), Oct 22^nd
   
-  Midterm Review
+  Conditional Expectations, Law of Iterated Expectations, Midterm Review
 
 - Midterm, Oct 24^th
 
 - [Lecture 16](./lecture16.pdf), Oct 29^th
   
-  Conditional mean and variance, Law of Iterated Expectations, Statistics and Their Distributions
+  Statistics and Their Sampling Distributions, Distribution of Sample Means
 
-  Textbook sections covered: 5.3
+  Textbook sections covered: 5.3, 5.4
 
 - [Lecture 17](./lecture17.pdf), Oct 31^st
   
-  Distribution of Sample Means and Linear Combinatinos, Central Limit Theorem
+  Central Limit Theorem
 
   Textbook sections covered: 5.4, 5.5
 

@@ -22,6 +22,7 @@ title:  Wang, Wei's Teaching Page
     their sample analogs; point estimation; confidence interval;
     hypothesis testing; linear regression.
 
+
 -   **Prerequisites**
 
     One semester of uni-variate Calculus. You should be familiar with derivatives
@@ -32,7 +33,13 @@ title:  Wang, Wei's Teaching Page
 
 -   **Method of Evaluation**
 
-    There will be weekly homework assignments (due on Wednesdays), 2 quizzes (25 min each; tentative dates: Sep 26th and Nov 14th), 1 midterm (75 min; tentative date: Oct 24th), and 1 final exam (2 hours). Their contributions to your grade will be respectively 30%, 10%, 25% and 35%. 
+    There will be weekly homework assignments (due on Wednesdays, one lowest score will be dropped), 2 quizzes (25 min each; tentative dates: Sep 26th and Nov 14th), 1 midterm (75 min; tentative date: Oct 24th), and 1 final exam (2 hours). Their contributions to your grade will be respectively 30%, 10%, 25% and 35%. 
+
+-   ** Late Submission Policy** 
+
+    For problem sets that are due on Wednesdays, you will receive 80% credit (your actual grade times 80%) if handing in before the weekend, 50% credit if handing in next week but no later than next Wednesday's lecture, 0 credit after next Wednesday's lecture.
+
+    The homework drop box is located at Rm 904 School of Social Work (the first room at the left down the hallway).
 
 -   **Textbook**
 
