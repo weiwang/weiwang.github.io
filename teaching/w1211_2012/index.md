@@ -153,17 +153,16 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - Midterm, Oct 24^th
 
-- [Lecture 16](./lecture16.pdf), Oct 29^th
+- Lecture 16, Oct 29^th
   
+  Canceled due to Hurricane Sandy       
+
+- [Lecture 17](./lecture17.pdf), Oct 31^st
+
   Statistics and Their Sampling Distributions, Distribution of Sample Means
 
   Textbook sections covered: 5.3, 5.4
-
-- [Lecture 17](./lecture17.pdf), Oct 31^st
-  
-  Central Limit Theorem
-
-  Textbook sections covered: 5.4, 5.5
+ 
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
