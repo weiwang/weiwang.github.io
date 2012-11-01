@@ -140,7 +140,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 13](./lecture13.pdf), Oct 17^th
   
-  Indepednece, Covariance and Correlation
+  Indepedence, Covariance and Correlation
 
   Textbook sections covered: 5.2
 
@@ -163,6 +163,16 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 5.3, 5.4
  
+ <font color="red">
+  Homework 6: 
+  
+  - 5.41 (Sampling Distributions)
+  - 5.46, 5.50, 5.53 (Distribution of Sample Means)
+  - 5.60 (Distribution of Linear Combinations)
+
+  </font>
+
+  Due on Wed Nov 7^th
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
