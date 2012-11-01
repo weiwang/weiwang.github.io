@@ -163,7 +163,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 5.3, 5.4, 5.5
  
- <font color="red">
+  <font color="red">
   Homework 6: 
   
   - 5.41 (Sampling Distributions)
