@@ -159,9 +159,9 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 17](./lecture17.pdf), Oct 31^st
 
-  Statistics and Their Sampling Distributions, Distribution of Sample Means
+  Statistics and Their Sampling Distributions, Distribution of Sample Means and Linear Combinations
 
-  Textbook sections covered: 5.3, 5.4
+  Textbook sections covered: 5.3, 5.4, 5.5
  
  <font color="red">
   Homework 6: 
@@ -169,7 +169,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 5.41 (Sampling Distributions)
   - 5.46, 5.50, 5.53 (Distribution of Sample Means)
   - 5.60 (Distribution of Linear Combinations)
-
   </font>
 
   Due on Wed Nov 7^th
