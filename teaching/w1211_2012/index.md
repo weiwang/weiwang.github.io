@@ -177,7 +177,19 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Point Estimation
 
-  Textbook sections covered: 
+  Textbook sections covered: 6.1
+
+- [Lecture 19](./lecture19.pdf), Nov 12th
+
+  Maximum Likelihood Estimator
+
+  Textbook sections covered: 6.2
+
+- [Lecture 20](./lecture20.pdf), Nov 14th
+
+  Intro to Confidence Interval, Large-sample CI for a Population Mean
+
+  Textbook sections covered: 7.1, 7.2
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
