@@ -173,6 +173,12 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Due on Wed Nov 7^th
 
+- [Lecture 18](./lecture18.pdf), Nov 7th
+
+  Point Estimation
+
+  Textbook sections covered: 
+
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
