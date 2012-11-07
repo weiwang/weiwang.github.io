@@ -179,18 +179,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 6.1
 
-- [Lecture 19](./lecture19.pdf), Nov 12th
-
-  Maximum Likelihood Estimator
-
-  Textbook sections covered: 6.2
-
-- [Lecture 20](./lecture20.pdf), Nov 14th
-
-  Intro to Confidence Interval, Large-sample CI for a Population Mean
-
-  Textbook sections covered: 7.1, 7.2
-
   <font color="red">
   Homework 7: 
   
@@ -199,6 +187,20 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   </font>
 
   Due on Wed Nov 14^th
+
+- [Lecture 19](./lecture19.pdf), Nov 12th
+
+  Measure of Good Estimators, Maximum Likelihood Estimator
+
+  Textbook sections covered: 6.1, 6.2
+
+- [Lecture 20](./lecture20.pdf), Nov 14th
+
+  Intro to Confidence Interval, Large-sample CI for a Population Mean
+
+  Textbook sections covered: 7.1, 7.2
+
+
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
