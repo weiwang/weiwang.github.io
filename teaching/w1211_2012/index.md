@@ -191,6 +191,14 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 7.1, 7.2
 
+  <font color="red">
+  Homework 7: 
+  
+  - 6.3, 6.4, 6.5 (Estimators)
+  - 6.11, 6.15 (Measure of Good Estimators)
+  </font>
+
+  Due on Wed Nov 14^th
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
