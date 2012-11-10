@@ -190,15 +190,15 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 19](./lecture19.pdf), Nov 12th
 
-  Measure of Good Estimators, Maximum Likelihood Estimator
+  Measure of Good Estimators
 
-  Textbook sections covered: 6.1, 6.2
+  Textbook sections covered: 6.1
 
 - [Lecture 20](./lecture20.pdf), Nov 14th
 
-  Intro to Confidence Interval, Large-sample CI for a Population Mean
+  Maximum Likelihood Estimation, Intro to Confidence Interval
 
-  Textbook sections covered: 7.1, 7.2
+  Textbook sections covered: 6.2, 7.1
 
 
 <!--
