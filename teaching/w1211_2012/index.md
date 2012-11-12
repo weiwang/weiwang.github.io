@@ -169,6 +169,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 5.41 (Sampling Distributions)
   - 5.46, 5.50, 5.53 (Distribution of Sample Means)
   - 5.60 (Distribution of Linear Combinations)
+  - [Solutions](./HW6_solutions.pdf) 
   </font>
 
   Due on Wed Nov 7^th
