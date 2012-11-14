@@ -140,7 +140,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 13](./lecture13.pdf), Oct 17^th
   
-  Indepedence, Covariance and Correlation
+  Independence, Covariance and Correlation
 
   Textbook sections covered: 5.2
 
@@ -201,6 +201,14 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 6.2, 7.1
 
+  <font color="red">
+  Homework 8: 
+  
+  - 6.28 (Maximum Likelihood Estimator)
+  - 7.3; 7.4a,c,e; 7.6 (Confidence Interval)
+  </font>
+
+  Due on Mon Nov 26^th
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
