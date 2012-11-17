@@ -197,9 +197,9 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 20](./lecture20.pdf), Nov 14th
 
-  Maximum Likelihood Estimation, Intro to Confidence Interval
+  Maximum Likelihood Estimation
 
-  Textbook sections covered: 6.2, 7.1
+  Textbook sections covered: 6.2
 
   <font color="red">
   Homework 8: 
@@ -209,6 +209,30 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   </font>
 
   Due on Mon Nov 26^th
+
+- [Lecture 21](./lecture21.pdf), Nov 19th
+
+  Intro to Confidence Interval, Quiz 2
+
+  Textbook sections covered: 7.1
+
+- [Lecture 22](./lecture22.pdf), Nov 21st
+
+  Large-Sample CI for a Population Mean, CI for a Population Proportion, The t Distributions
+
+  Textbook sections covered: 7.2, 7.3
+
+- [Lecture 23](./lecture23.pdf), Nov 26th
+
+  Interval Based on t distribution, Intro to Hypothesis Testing
+
+  Textbook sections covered: 7.3, 8.1
+
+- [Lecture 24](./lecture24.pdf), Nov 28th
+
+  Intro to Hypothesis Testing, Testing Procedures and Errors      
+
+  Textbook sections covered: 8.1
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
