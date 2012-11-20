@@ -234,6 +234,18 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 8.1
 
+- [Lecture 25](./lecture25.pdf), Dec 2nd
+
+  Testing Hypothesis about a Single Mean and Proportion
+
+  Textbook sections covered: 8.2, 8.3
+
+- [Lecture 26](./lecture26.pdf), Dec 4th
+
+  P-value
+
+  Textbook sections covered: 8.4
+
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
