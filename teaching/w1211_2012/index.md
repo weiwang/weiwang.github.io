@@ -222,6 +222,17 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 7.2, 7.3
 
+  <font color="red">
+  Homework 9:
+  
+  - 7.13, 7.18 (Large-Sample Confidence Interval for a Population Mean)
+  - 7.21, 7.23a (Large-Sample Confidence Interval for a Population Proportin)
+  - 7.30a,b,c; 7.32; 7.36a,b (Confidence Intervals based on t Distribution)
+  - 8.1 (Hypothesis)
+  </font>
+
+  Due on Mon Dec 3^rd
+
 - [Lecture 23](./lecture23.pdf), Nov 26th
 
   Interval Based on t distribution, Intro to Hypothesis Testing
@@ -234,13 +245,13 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 8.1
 
-- [Lecture 25](./lecture25.pdf), Dec 2nd
+- [Lecture 25](./lecture25.pdf), Dec 3rd
 
   Testing Hypothesis about a Single Mean and Proportion
 
   Textbook sections covered: 8.2, 8.3
 
-- [Lecture 26](./lecture26.pdf), Dec 4th
+- [Lecture 26](./lecture26.pdf), Dec 5th
 
   P-value
 
