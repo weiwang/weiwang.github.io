@@ -185,6 +185,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   - 6.3, 6.4, 6.5 (Estimators)
   - 6.11, 6.15 (Measure of Good Estimators)
+  - [Solutions](./HW7_solutions.pdf)
   </font>
 
   Due on Wed Nov 14^th
@@ -214,7 +215,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Intro to Confidence Interval, Quiz 2
 
-  Textbook sections covered: 7.1
+  Textbook sections covered: 7.1 (sans Bootstrap confidence intervals)
 
 - [Lecture 22](./lecture22.pdf), Nov 21st
 
@@ -237,7 +238,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Interval Based on t distribution, Intro to Hypothesis Testing
 
-  Textbook sections covered: 7.3, 8.1
+  Textbook sections covered: 7.3 (sans prediction intervals, tolerance intervals and nonnormal populations), 8.1
 
 - [Lecture 24](./lecture24.pdf), Nov 28th
 
