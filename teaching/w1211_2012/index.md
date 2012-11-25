@@ -204,7 +204,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   <font color="red">
   Homework 8: 
   
-  - 6.28 (Maximum Likelihood Estimator)
+  - 6.28a (Maximum Likelihood Estimator)
   - 7.3; 7.4a,c,e; 7.6 (Confidence Interval)
   </font>
 
