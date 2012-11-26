@@ -232,7 +232,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 8.1 (Hypothesis)
   </font>
 
-  Due on Mon Dec 3^rd
+  Due on Mon Dec 2^nd
 
 - [Lecture 23](./lecture23.pdf), Nov 26th
 
@@ -246,13 +246,13 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 8.1
 
-- [Lecture 25](./lecture25.pdf), Dec 3rd
+- [Lecture 25](./lecture25.pdf), Dec 2nd
 
   Testing Hypothesis about a Single Mean and Proportion
 
   Textbook sections covered: 8.2, 8.3
 
-- [Lecture 26](./lecture26.pdf), Dec 5th
+- [Lecture 26](./lecture26.pdf), Dec 4th
 
   P-value
 
