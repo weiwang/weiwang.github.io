@@ -228,8 +228,8 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   - 7.13, 7.18 (Large-Sample Confidence Interval for a Population Mean)
   - 7.21, 7.23a (Large-Sample Confidence Interval for a Population Proportin)
-  - 7.30a,b,c; 7.32; 7.36a,b (Confidence Intervals based on t Distribution)
-  - 8.1 (Hypothesis)
+  - 7.30a,b,c; 7.33; 7.37a (Confidence Intervals based on t Distribution)
+  - 8.2a,b,c,d (Hypothesis)
   </font>
 
   Due on Mon Dec 2^nd
