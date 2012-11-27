@@ -151,7 +151,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   Conditional Expectations, Law of Iterated Expectations, Midterm Review
 
-- Midterm, Oct 24^th
+- Lecture 15, Midterm, Oct 24^th
 
 - Lecture 16, Oct 29^th
   
@@ -232,7 +232,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 8.2a,b,c,d (Hypothesis)
   </font>
 
-  Due on Mon Dec 2^nd
+  Due on Mon Dec 3^rd
 
 - [Lecture 23](./lecture23.pdf), Nov 26th
 
@@ -242,21 +242,29 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 24](./lecture24.pdf), Nov 28th
 
-  Intro to Hypothesis Testing, Testing Procedures and Errors      
+  Testing Procedures and Types of Errors, Testing Hypothesis about a Population Mean  
 
   Textbook sections covered: 8.1
 
-- [Lecture 25](./lecture25.pdf), Dec 2nd
+- [Lecture 25](./lecture25.pdf), Dec 3rd
 
-  Testing Hypothesis about a Single Mean and Proportion
+  Testing Hypothesis about a Proportion Proportion, P-value
 
-  Textbook sections covered: 8.2, 8.3
+  Textbook sections covered: 8.3, 8.4
 
-- [Lecture 26](./lecture26.pdf), Dec 4th
+- [Lecture 26](./lecture26.pdf), Dec 5th
 
-  P-value
+  P-value, Two-Sample z Test, Two-Sample t test
 
-  Textbook sections covered: 8.4
+  Textbook sections covered: 8.4, 9.1, 9.2
+
+- Lecture 28, Dec 10th
+
+  Review
+
+- Final Exam, 9-11:30am, Dec 19th
+
+
 
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
