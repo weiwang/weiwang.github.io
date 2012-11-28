@@ -258,7 +258,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 8.4, 9.1, 9.2
 
-- Lecture 28, Dec 10th
+- Lecture 27, Dec 10th
 
   Review
 
