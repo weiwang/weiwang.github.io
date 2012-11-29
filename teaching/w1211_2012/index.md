@@ -264,8 +264,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - Final Exam, 9-11:30am, Dec 19th
 
-- [talk](./meta_pres.pdf)
-
 <!--
 Random variables, probability distributions, pdf, cdf, conditional distribution.
 
