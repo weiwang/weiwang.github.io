@@ -244,13 +244,13 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Testing Procedures and Types of Errors, Testing Hypothesis about a Population Mean
 
-  Textbook sections covered: 8.1
+  Textbook sections covered: 8.1, 8.2
 
 - [Lecture 25](./lecture25.pdf), Dec 3rd
 
-  Testing Hypothesis about a Proportion Proportion, P-value
+  Testing Hypothesis about a Population Mean cont'd, Testing Hypothesis about a Proportion Proportion (sans Small Sample Test), P-value
 
-  Textbook sections covered: 8.3, 8.4
+  Textbook sections covered: 8.2, 8.3, 8.4
 
 - [Lecture 26](./lecture26.pdf), Dec 5th
 
@@ -260,7 +260,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - Lecture 27, Dec 10th
 
-  Review
+  Review for Final Exam
 
 - Final Exam, 9-11:30am, Dec 19th
 

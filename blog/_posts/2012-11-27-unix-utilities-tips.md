@@ -14,20 +14,20 @@ learner. In this entry, I try to record the essential Unix Shell command that I,
 from time to time, needed to google and relearn. Hopefully googling part will
 becoem obsolete from now on.
 
-**Processes
+##Processes
 
     {% highlight bash %}
     ## list all running processes
     ps aux          #ps stands for process status
     {% endhighlight  %}
 
-**sed
+##sed
                      
     {% highlight bash %}
     sed 7q .emacs   #display the first 7 lines of the file 
     {% endhighlight %}
 
-**grep
+##grep
 
     {% highlight bash %}
     ## grep recursively 
