@@ -248,13 +248,24 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
 - [Lecture 25](./lecture25.pdf), Dec 3rd
 
-  Testing Hypothesis about a Population Mean cont'd, Testing Hypothesis about a Population Proportion (sans Small Sample Test), P-value
+  Testing Hypothesis about a Population Mean cont'd
 
   Textbook sections covered: 8.2, 8.3, 8.4
 
+  <font color="red">
+  Homework 10:
+
+  - 8.6 (Hypothesis and Errors)
+  - 8.19, 8.26, 8.27, 8.29a (Testing Population Mean)
+  - 8.37, 8.39 (Testing Population Proportion)
+  - 8.71, 8.76 (P-value)
+  </font>
+
+  Due on Mon Dec 10^th  
+
 - [Lecture 26](./lecture26.pdf), Dec 5th
 
-  P-value, Two-Sample z Test, Two-Sample t test
+  Testing Hypothesis about a Population Proportion (sans Small Sample Test), P-value
 
   Textbook sections covered: 8.4, 9.1, 9.2
 
