@@ -161,7 +161,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Statistics and Their Sampling Distributions, Distribution of Sample Means and Linear Combinations
 
-  Textbook sections covered: 5.3, 5.4, 5.5
+  Textbook sections covered: 5.3 (sans Simulation Experiments), 5.4, 5.5
 
   <font color="red">
   Homework 6:
@@ -222,7 +222,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Large-Sample CI for a Population Mean, CI for a Population Proportion, The t Distributions
 
-  Textbook sections covered: 7.2, 7.3
+  Textbook sections covered: 7.2
 
   <font color="red">
   Homework 9:
@@ -269,6 +269,17 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   Testing Hypothesis about a Population Proportion (sans Small Sample Test), P-value
 
   Textbook sections covered: 8.3, 8.4
+
+  <font color="red">       
+  Final Practice Problems: 
+  
+  - 3.50, 3.81, 4.45, 4.47
+  - 5.46, 5.50, 5.59
+  - 6.11, 6.15, Example 6.18
+  - 7.16, 7.20, 7.34a
+  - 8.58, 8.75 
+
+</font>  
 
 - Lecture 27, Dec 10th
 
