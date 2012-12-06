@@ -251,7 +251,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Testing Hypothesis about a Population Mean cont'd
 
-  Textbook sections covered: 8.2, 8.3, 8.4
+  Textbook sections covered: 8.2, 8.3
 
   <font color="red">
   Homework 10:
@@ -268,7 +268,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Testing Hypothesis about a Population Proportion (sans Small Sample Test), P-value
 
-  Textbook sections covered: 8.4, 9.1, 9.2
+  Textbook sections covered: 8.3, 8.4
 
 - Lecture 27, Dec 10th
 
