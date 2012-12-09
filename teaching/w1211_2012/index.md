@@ -277,7 +277,8 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 5.46, 5.50, 5.59
   - 6.11, 6.15, Example 6.18
   - 7.16, 7.20, 7.34a
-  - 8.58, 8.75 
+  - 8.58, 8.75 and Homework 10 problems including 8.26, 8.37
+  - [Solutions](./final_prac_solutions.pdf)
 
 </font>  
 
