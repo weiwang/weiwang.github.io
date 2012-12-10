@@ -231,6 +231,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 7.21, 7.23a (Large-Sample Confidence Interval for a Population Proportion)
   - 7.30a,b,c; 7.33; 7.37a (Confidence Intervals based on t Distribution)
   - 8.2a,b,c,d (Hypothesis)
+  - [Solutions](./HW9_solutions.pdf)
   </font>
 
   Due on Mon Dec 3^rd
