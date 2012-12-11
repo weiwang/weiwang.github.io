@@ -200,7 +200,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Maximum Likelihood Estimation
 
-  Textbook sections covered: 6.2
+  Textbook sections covered: 6.2 (sans The Method of Moments)
 
   <font color="red">
   Homework 8:
@@ -276,7 +276,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   
   - 3.50, 3.81, 4.45, 4.47
   - 5.46, 5.50, 5.59
-  - 6.11, 6.15, Example 6.18
+  - 6.11, 6.15, Example 6.16
   - 7.16, 7.20, 7.34a
   - 8.58, 8.75 and Homework 10 problems including 8.26, 8.37
   - [Solutions](./final_prac_solutions.pdf)
