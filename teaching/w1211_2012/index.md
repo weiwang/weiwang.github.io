@@ -280,7 +280,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 7.16, 7.20, 7.34a
   - 8.58, 8.75 and 8.26, 8.37
   - [Solutions](./final_prac_solutions.pdf)
-
+  - [Quiz 2](./quiz2.pdf)
 </font>  
 
 - Lecture 27, Dec 10th
