@@ -261,6 +261,7 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 8.19, 8.26, 8.27, 8.29a (Testing Population Mean)
   - 8.37, 8.39 (Testing Population Proportion)
   - 8.71, 8.76 (P-value)
+  - [Solutions](./HW10_solutions.pdf)
   </font>
 
   Due on Mon Dec 10^th  
