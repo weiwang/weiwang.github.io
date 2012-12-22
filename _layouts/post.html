@@ -4,6 +4,9 @@ layout: common
 <div class="title">Wang, Wei's Blog</div>
 {% include links.html %}
 
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"} } });       </script>
+
 <div id="blogpost">
   <h1>{{ page.title }}</h1>
 
@@ -25,6 +28,7 @@ layout: common
   {{ content }}
 
 </div>
+
 
 {% if page.trackbacks %}
 <div id="trackbacks">
@@ -60,4 +64,5 @@ layout: common
      document.getElementsByTagName('body')[0]).appendChild(dsq);
   })();
 </script>
+
 {% endif %}

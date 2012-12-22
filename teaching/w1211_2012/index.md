@@ -4,6 +4,8 @@ title:  Wang, Wei's Teaching Page
 ---
 W1211 Introduction to Statistics with Calculus, Fall 2012
 
+<img src="Fall2012.jpg" width="600" height="450" />
+
 - Syllabus \[[html](./syllabus.html)\] \[[pdf](./syllabus.pdf)\]
 - [R resources](./r_resources.html)
 - [Lecture 1](./lecture1.html), [R Demo Code](./r_demo_1.R), Sep 5th
