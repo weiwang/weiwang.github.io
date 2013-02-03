@@ -211,6 +211,41 @@ blockquote {
     margin-bottom: 3em;
 }
 
+/* pages listing notbook posts */
+
+#notbookindex {
+    width: 30em;
+    margin: 2em auto 2em auto;
+}
+#notbookindex ul {
+    margin: 0 2.5em 0 1em;
+}
+#notbookindex ul.posts {
+    list-style-type: none;
+}
+#notbookindex ul.posts li {
+    line-height: 1.75em;
+    margin: 0;
+}
+/*#notbookindex ul.posts .timestamp {
+    float: right;
+    color: #aaa;
+}*/
+
+/* notbook post pages */
+
+#notbookpost {
+    margin-bottom: 3em;
+}
+/* #notbookpost .timestamp {
+    color: #aaa;
+}*/
+
+#trackbacks {
+    margin-bottom: 3em;
+}
+
+
 /* disqus comment threads */
 
 #disqus_thread {

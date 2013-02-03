@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Reading notes of Chambers' R book: (Almost) everything is a function call"
+title: "Chambers' R book: (Almost) everything is a function call"
 description: ""
 category: computing
 tags: [R, Functional programming]

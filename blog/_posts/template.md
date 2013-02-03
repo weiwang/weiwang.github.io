@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Frequently used functions in S4"
+title: ""
 description: ""
-category: memo
-tags: [S4]
+category: 
+tags: []
 ---
 
 [This](http://cran.r-project.org/doc/contrib/Genolini-S4tutorialV0-5en.pdf) is a very helpful introduction/summary of S4 methods.  I often have memory failure when dealing with S4 methods. So I document the basic S4 utilities functions below.  MI is used as an example. This page has {{ page.content | number_of_words }} words.

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: notebook
 title: "Emacs Speaks Statistics Setup"
 description: ""
 category: memo
