@@ -1,7 +1,7 @@
-permalink: /:categories/:title
+permalink: /:categories/:year/:month/:title
 
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "blog/", "notebooks/"]
-auto: false
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+auto: true
 pygments: true
 
 
