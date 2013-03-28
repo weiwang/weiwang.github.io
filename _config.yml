@@ -1,11 +1,11 @@
-permalink: /:categories/:year/:month/:title
+permalink: /:categories/:title
 
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
-auto: true
+auto: false
 pygments: true
 
 
-markdown: rdiscount
+markdown: maruku
 rdiscount:
   extensions:
     - smart
