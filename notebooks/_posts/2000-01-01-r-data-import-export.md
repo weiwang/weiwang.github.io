@@ -1,6 +1,6 @@
 ---
 layout: notebook
-title: "Notes on R Data Import/Export"
+title: "R Data Import/Export"
 description: ""
 category:
 tags: [XeTex]

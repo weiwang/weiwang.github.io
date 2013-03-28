@@ -5,7 +5,7 @@ auto: false
 pygments: true
 
 
-markdown: maruku
+markdown: rdiscount
 rdiscount:
   extensions:
     - smart
