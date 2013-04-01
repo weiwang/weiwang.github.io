@@ -1,7 +1,6 @@
 /* general site formatting */
 @import url(http://fonts.googleapis.com/css?family="Inconsolata");
-@import url(http://fonts.googleapis.com/css?family=Asul);
-@import url(http://fonts.googleapis.com/css?family=Oxygen);
+@import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,400italic);
 * {
     margin: 0;
     padding: 0;
@@ -15,7 +14,7 @@ html, body {
 
 body {
     background-color: white;
-    font: 12.5pt Asul, Oxygen, Georgia, Arial, sans-serif;
+    font-family: 'Noto Sans', sans-serif;
 }
 pre, code {
   font-family: 'Inconsolata', monospace;
@@ -65,11 +64,7 @@ pre, code {
 #contact p {margin-bottom: 0; font-weight: bold;}
 
 .title, h1, h2, h3, h4, h5, h6 {
-<<<<<<< .merge_file_b4ZywB
-    font-family:  Oxygen, Helvetica, Arial, Clean, sans-serif;
-=======
-    font-family: Asul, Oxygen, Helvetica, Arial, Clean, sans-serif;
->>>>>>> .merge_file_7zBxRB
+    font-family: 'Noto Sans', sans-serif;
     font-size: 105%;
 }
 
