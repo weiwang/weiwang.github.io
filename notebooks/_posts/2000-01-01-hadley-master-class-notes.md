@@ -21,7 +21,7 @@ Stop R from converting results to a simpler form
 
 - drop=FALSE
 
-** Controlling Evaluation **
+***Controlling Evaluation***
 
 - substitute
 - deparse: expression => string
@@ -30,7 +30,7 @@ Stop R from converting results to a simpler form
 - eval and evalq
 - the magic of substiture(list(...))
 
-** First-order Funciton **
+***First-order Funciton***
 
 - match.fun()
 - environment can be thought as a list of objects
@@ -42,7 +42,7 @@ Stop R from converting results to a simpler form
 - When you look at closures, inspect their environment
 
 
-** Object Oriented **
+***Object Oriented***
 
 - structure() to create a new class. All facilities need to be designed
   yourself.
@@ -52,7 +52,7 @@ Stop R from converting results to a simpler form
   with addNA().
 - Class Hierarchy in R in mostly implicit.
 
-** Best Design Practice **
+***Best Design Practice***
 
 - Avoid functions that have non-standard
 evaluation rules (no subset, with,
@@ -67,12 +67,12 @@ FALSE).
     options(error = quote({dump.frames(to.file = TRUE); q()}))
     {% endhighlight %}
 
-** Layout of R package source directory **
+***Layout of R package source directory***
 
 No that interesting. Chambers's book is a good reference, if we have no patience
-with *Writing R Extension*.
+with _Writing R Extension_.
 
-** Package and Library **
+***Package and Library***
 
 - Set R_LIBS="~/R" v.s. .libPaths("~/R")
 - ?Startup to see details of R initialization
@@ -81,7 +81,7 @@ with *Writing R Extension*.
     {% highlight r %}
     update.packages(checkBuilt = T, ask = F)   {% endhighlight %}
 
-** Documenting R packages with Roxygen2 **
+***Documenting R packages with Roxygen2***
 
 Work flow
 - Update rd comments in R source files
@@ -89,7 +89,7 @@ Work flow
 - check_doc("pkg/path")
 - show_rd(, "rd files")
 
-** Useful link **
+***Useful link***
 
 - [Lexical Scoping of R](http://darrenjw.wordpress.com/2011/11/23/lexical-scope-and-function-closures-in-r/)
 - [Environments and Namespaces](http://obeautifulcode.com/R/How-R-Searches-And-Finds-Stuff/)
