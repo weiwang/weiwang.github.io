@@ -1,8 +1,8 @@
 ---
-layout: teaching
+layout: default
 title:  Wang, Wei's Teaching Page
 ---
-As the Instructor
+As an Instructor
 
 - [STAT W1211](/teaching/w1211_2012) Introduction to Statistics with Calculus, Fall 2012
 - [STAT S1211Q](/teaching/s1211q_2012) Introduction to Statistics with Calculus, Summer 2012             

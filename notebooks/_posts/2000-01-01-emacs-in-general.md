@@ -38,7 +38,7 @@ As from the `ess-r-versions` documentation
 
 `ido` mode is super convenient for emacs users. It is the auto-complete of the
 minibuffer. To make M-x idoable, put the following code in the `.emacs` file,
-which is from EmacsWiki
+which is borrowed from EmacsWiki
 
     {% highlight cl %}
     (global-set-key

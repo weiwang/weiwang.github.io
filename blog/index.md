@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Wang, Wei's Blog on Statistics, Computation, Data Analysis et al.
+title:  Wang, Wei's Blog
 ---
 <div id="blogindex">
   <p>Life is endless writing and recording.</p>
