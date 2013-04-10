@@ -1,6 +1,7 @@
 /* general site formatting */
 @import url(http://fonts.googleapis.com/css?family="Inconsolata");
 @import url(http://fonts.googleapis.com/css?family=Noto+Sans:400,400italic);
+@import url(http://fonts.googleapis.com/css?family=Merriweather);
 * {
     margin: 0;
     padding: 0;
@@ -14,7 +15,7 @@ html, body {
 
 body {
     background-color: white;
-    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Merriweather', serif;
 }
 pre, code {
   font-family: 'Inconsolata', monospace;
