@@ -3,9 +3,15 @@ layout: research
 title:  Wang, Wei's Research
 ---
 
-My research interests concern applications of Hierarchical models in missing data imputation and causal inference, under various applied settings such as big national opinion surveys, meta-analysis and randomized program evaluations.
+* Published papers
+  - Aira Toivgoo, Wei Wang and Susan Witte. _Reducing Risk Behaviors Linked to Noncommunicable Diseases in Mongolia: A Randomized Controlled Trial_. American Journal of Public Health 103 (9), 1666-1674. (2013)
 
-- _Wei Wang_ and Andrew Gelman. Model selection via Cross-Validation: Challenges from Structured Data.
-- _Wei Wang_, Ben Goodrich, Jonathan Kropko and Andrew Gelman. Iterative Conditional Imputation of Time-Series Cross-Section Data.
-- Michael Sobel, _Wei Wang_ and David Madigan. A Potential-Outcome Framework for Meta-Analysis.
-- Aira Toivgoo, _Wei Wang_ and Susan Witte. Reducing Risk Behaviors linked to Non Communicable Diseases in Mongolia: A randomized controlled trial.
+* Working papers
+  - Wei Wang, Shard Goel, David Rothschidl and Andrew Gelman. _Forecasting Elections with Non-Representative Polls_. Submitted to International Journal of Forecasting. (2013)
+ 
+  - Michael Sobel, David Madigan and Wei Wang. _Meta-Analysis: A Causal Framework, with Application to Randomized Studies of Vioxx_. Submitted to Journal fo the American Statistial Association. (2013)
+
+  - Wei Wang, Ben Goodrich, Jonathan Kropko and Andrew Gelman. Iterative Conditional Imputation of Time-Series Cross-Section Data.    
+
+  - Wei Wang and Andrew Gelman. _On Evaluating the Predictive Performance of Hierarchical Models_.
+ 
