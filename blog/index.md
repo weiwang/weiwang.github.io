@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Wang, Wei's Blog
+title:  Wei Wang's Blog
 ---
 <div id="blogindex">
   <p>Life is endless writing and recording.</p>

@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  Wang, Wei's Notebook
+title:  Wei Wang's Notebook
 ---
 <div id="notebookindex">
   <p>Good memory is less reliable than bare pencils.</p>
