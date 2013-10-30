@@ -24,18 +24,19 @@ href="http://en.ustc.edu.cn/">University of Science and Technology of
 China</a>. </p>
 
 
-* Published papers
+* Published Papers
    - Aira Toivgoo, Wei Wang and Susan Witte. _Reducing Risk
 Behaviors Linked to Noncommunicable Diseases in Mongolia: A Randomized Controlled
 Trial_. American Journal of Public Health 103 (9), 1666-1674. (2013)
 [pdf](research/reducing-risk-behaviros-linked-to-noncommunicable-diseases.pdf)
 
-* Working papers
+* Submitted Papers
   - Wei Wang, Shard Goel, David Rothschild and Andrew Gelman. _Forecasting Elections with Non-Representative Polls_. Submitted. [pdf](research/forecasting-with-nonrepresentative-polls.pdf)
  
   - Michael Sobel, David Madigan and Wei Wang. _Meta-Analysis: A Causal Framework, with Application to Randomized Studies of Vioxx_. Submitted. [pdf](research/Meta-Analysis-A-Causal-Framework.pdf)
 
-  - Wei Wang and Andrew Gelman. _A Problem with the Use of Cross-Validation for Selecting among Multilevel Models_. To be submitted. [pdf](research/xval.pdf)
+  - Wei Wang and Andrew Gelman. _A Problem with the Use of Cross-Validation for Selecting among Multilevel Models_. Submitted. [pdf](research/xval.pdf)
+
 
 <!--  - Wei Wang, Ben Goodrich, Jonathan Kropko and Andrew Gelman. _Iterative Conditional Imputation of Time-Series Cross-Section Data._ In preparation. 
       - Wei Wang, Michael Sobel. _Causal Inference of Meta-Analysis using Bayesian Hierarchical Models._ In preparation.
