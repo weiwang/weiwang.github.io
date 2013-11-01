@@ -3,7 +3,7 @@ layout: default
 title: Wei Wang, Columbia Statistics 
 tagline: 
 ---
-<img src="figures/DSC_1303.jpg" style="float:right" width="140" height="220" />
+<img src="figures/ssw.jpg" style="float:right" width="140" height="210" />
 </p><br><br>
 Wei Wang <br>
 Department of Statistics<br>
@@ -16,10 +16,10 @@ New York, NY 10027
 <p>I am a fifth year PhD student at <a href="http://stat.columbia.edu">Department
 of Statistics</a>, Columbia University. I work on various interesting problems in
 applied statistics, including survey sampling, causal inference and missing data
-imputation, often with a computational flavor. When I am not by my computer
-waiting for the Markov Chain Monte Carlo sample to converge, I spend time
-training for triathlon, dancing Argentine tango and playing Irish folk tunes on
-guitar. I received my Bachelor of Science degree in 2009 from <a
+imputation, mostly with a Bayesian and computational flavor. When I am not by my
+computer waiting for the Markov Chain Monte Carlo sample to converge, I spend
+time training for triathlon, dancing Argentine tango and playing Irish folk tunes
+on guitar. I received my Bachelor of Science degree in 2009 from <a
 href="http://en.ustc.edu.cn/">University of Science and Technology of
 China</a>. </p>
 
