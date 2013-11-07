@@ -3,7 +3,7 @@ layout: default
 title: Wei Wang, Columbia Statistics 
 tagline: 
 ---
-<img src="figures/ssw.jpg" style="float:right" width="140" height="210" />
+<img src="figures/ssw.jpg" style="float:right" width="160" height="210" />
 </p><br><br>
 Wei Wang <br>
 Department of Statistics<br>
