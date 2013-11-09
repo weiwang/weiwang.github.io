@@ -9,7 +9,7 @@
 
 html, body {
     height: 100%;
-    background-image: url("../figures/light_gray.png");
+    /*background-image: url("../figures/light_gray.png");*/
     background-attachment:fixed;
 }
 
