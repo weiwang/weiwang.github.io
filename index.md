@@ -13,8 +13,8 @@ New York, NY 10027
 <br>
 <a href="CV_WeiWang.pdf">[CV]</a><br><br></p>
 
-<p>I am a fifth year PhD student at <a href="http://stat.columbia.edu">Department
-of Statistics</a>, Columbia University. I work on various interesting problems in
+<p>I am a PhD student at <a href="http://stat.columbia.edu">Department of
+Statistics</a>, Columbia University. I work on various interesting problems in
 applied statistics, including survey sampling, causal inference and missing data
 imputation, mostly with a Bayesian and computational flavor. When I am not by my
 computer waiting for the Markov Chain Monte Carlo sample to converge, I spend
