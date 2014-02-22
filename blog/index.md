@@ -3,7 +3,7 @@ layout: default
 title:  Wei Wang's Blog
 ---
 <div id="blogindex">
-  <p>Life is endless writing and recording.</p>
+  <p>Life is endless recording.</p>
 
   <ul class="posts">
     {% for post in site.categories.blog %}

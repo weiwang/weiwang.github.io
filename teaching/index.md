@@ -9,6 +9,7 @@ As the Instructor
 
 As a Teaching Assistant
 
+- STAT W4249 _Applied Data Science_, Spring 2014
 - STAT W4240 _Data Mining_, Fall 2013
 - STAT W4325 _Generalized Linear Models_, Spring 2012
 - STAT G6240/W4240 _Data Mining_, Fall 2011 (2011 Levine Teachign Assistant Award)
