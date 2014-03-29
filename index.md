@@ -25,14 +25,16 @@ China</a>. </p>
 
 
 * Published Papers
-   - Aira Toivgoo, Wei Wang and Susan Witte. _Reducing Risk
+   - Wei Wang, Shard Goel, David Rothschild and Andrew Gelman. 2014. _Forecasting
+     Elections  with Non-Representative Poll_. International Journal of
+     Forecasting. Forthcoming. [pdf](research/forecasting-with-nonrepresentative-polls.pdf)
+
+   - Aira Toivgoo, Wei Wang and Susan Witte. 2013.  _Reducing Risk
 Behaviors Linked to Noncommunicable Diseases in Mongolia: A Randomized Controlled
-Trial_. American Journal of Public Health 103 (9), 1666-1674. (2013)
+Trial_. American Journal of Public Health. Vol.103, No.9, pp 1666-1674.
 [pdf](research/reducing-risk-behaviros-linked-to-noncommunicable-diseases.pdf)
 
 * Submitted Papers
-  - Wei Wang, Shard Goel, David Rothschild and Andrew Gelman. _Forecasting Elections with Non-Representative Polls_. Submitted. [pdf](research/forecasting-with-nonrepresentative-polls.pdf)
- 
   - Michael Sobel, David Madigan and Wei Wang. _Meta-Analysis: A Causal Framework, with Application to Randomized Studies of Vioxx_. Submitted. [pdf](research/Meta-Analysis-A-Causal-Framework.pdf)
 
   - Wei Wang and Andrew Gelman. _A Problem with the Use of Cross-Validation for Selecting among Multilevel Models_. Submitted. [pdf](research/xval.pdf)
