@@ -34,7 +34,7 @@ Behaviors Linked to Noncommunicable Diseases in Mongolia: A Randomized Controlle
 Trial_. American Journal of Public Health. Vol.103, No.9, pp 1666-1674.
 [pdf](research/reducing-risk-behaviros-linked-to-noncommunicable-diseases.pdf)
 
-* Submitted Papers
+* Working Papers
   - Michael Sobel, David Madigan and Wei Wang. _Meta-Analysis: A Causal Framework, with Application to Randomized Studies of Vioxx_. Submitted. [pdf](research/Meta-Analysis-A-Causal-Framework.pdf)
 
   - Wei Wang and Andrew Gelman. _A Problem with the Use of Cross-Validation for Selecting among Multilevel Models_. Submitted. [pdf](research/xval.pdf)
