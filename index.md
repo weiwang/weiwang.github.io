@@ -37,7 +37,8 @@ Trial_. American Journal of Public Health. Vol.103, No.9, pp 1666-1674.
 * Working Papers
   - Michael Sobel, David Madigan and Wei Wang. _Meta-Analysis: A Causal Framework, with Application to Randomized Studies of Vioxx_. Submitted. [pdf](research/Meta-Analysis-A-Causal-Framework.pdf)
 
-  - Wei Wang and Andrew Gelman. _A Problem with the Use of Cross-Validation for Selecting among Multilevel Models_. Submitted. [pdf](research/xval.pdf)
+  - Wei Wang and Andrew Gelman. _Difficulty of Selecting among Multilevel Model
+    using Predictive Accuracy_. Submitted. [pdf](research/xval.pdf)
 
 
 <!--  - Wei Wang, Ben Goodrich, Jonathan Kropko and Andrew Gelman. _Iterative Conditional Imputation of Time-Series Cross-Section Data._ In preparation. 
