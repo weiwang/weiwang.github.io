@@ -29,6 +29,9 @@ China</a>. </p>
      Elections  with Non-Representative Poll_. International Journal of
      Forecasting. Forthcoming. [pdf](research/forecasting-with-nonrepresentative-polls.pdf)
 
+   - Wei Wang and Andrew Gelman. _Difficulty of Selecting among Multilevel Model
+    using Predictive Accuracy_. Statistics and Its Interfaces. Forthcoming. [pdf](research/xval.pdf)
+
    - Aira Toivgoo, Wei Wang and Susan Witte. 2013.  _Reducing Risk
 Behaviors Linked to Noncommunicable Diseases in Mongolia: A Randomized Controlled
 Trial_. American Journal of Public Health. Vol.103, No.9, pp 1666-1674.
@@ -36,10 +39,6 @@ Trial_. American Journal of Public Health. Vol.103, No.9, pp 1666-1674.
 
 * Working Papers
   - Michael Sobel, David Madigan and Wei Wang. _Meta-Analysis: A Causal Framework, with Application to Randomized Studies of Vioxx_. Submitted. [pdf](research/Meta-Analysis-A-Causal-Framework.pdf)
-
-  - Wei Wang and Andrew Gelman. _Difficulty of Selecting among Multilevel Model
-    using Predictive Accuracy_. Submitted. [pdf](research/xval.pdf)
-
 
 <!--  - Wei Wang, Ben Goodrich, Jonathan Kropko and Andrew Gelman. _Iterative Conditional Imputation of Time-Series Cross-Section Data._ In preparation. 
       - Wei Wang, Michael Sobel. _Causal Inference of Meta-Analysis using Bayesian Hierarchical Models._ In preparation.
