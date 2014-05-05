@@ -124,22 +124,24 @@ f<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet'>
 <li>The simplest type of tasks involve no inter-communications at all, and they are often known as “embarrassingly parallelizable”.</li>
 </ul>
 <ul class="incremental">
-<li>E.g., k-fold cross validation, random forests</li>
+<li>E.g., k-fold cross validation, random forests, bootstrap</li>
 </ul>
 </section>
 <section id="word-count-example" class="slide level2">
 <h1>Word Count Example</h1>
 <ul class="incremental">
-<li>Now let’s say we want to count the word frequency of the entire Wikipedia corpus. How to do this in parallel on, say, 1000 machines?</li>
+<li>Now let’s say we want to count the word frequencies of the entire Wikipedia corpus. How to do this in parallel on, say, 1000 machines?</li>
 </ul>
 <ul class="incremental">
-<li>Equivalently, if we think of data source as a stream of words, the question is how to assign the words to the 1000 machines.</li>
+<li>Chopping the corpus into 1000 parts and feeding them into the 1000 machines?</li>
+<li>Not a good idea.</li>
 </ul>
 <ul class="incremental">
-<li>The key observation here is that we will be better off if the same word is handled by only a single machine.</li>
+<li>The key observation here is that we will be better off if the same word is handled by the same machine. But how to do it optimally?</li>
 </ul>
 <ul class="incremental">
-<li>The naive way is that each time we see a word, we randomly assign it to a machine if it is a new word, otherwise assign it to the same machine that its previous appearances have been assigned to.</li>
+<li>The naive way is that each time we see a word, we (randomly) assign it to a machine if it is new, otherwise assign it to the same machine as its previous appearances.</li>
+<li>It is OK, but not that great.</li>
 </ul>
 </section>
 <section id="the-role-of-hashing" class="slide level2">
@@ -160,7 +162,7 @@ f<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet'>
 <section id="word-count-example-walk-through" class="slide level2">
 <h1>Word Count Example Walk-Through</h1>
 <ul class="incremental">
-<li>The entire Wikipedia corpus is split into single words.</li>
+<li>The entire Wikipedia corpus is split into single words, or equivalent, it is entering the machine as a (really) sequence of words.</li>
 </ul>
 <ul class="incremental">
 <li>A hashing function maps each words to a number between 1 to 1000.</li>
@@ -169,19 +171,22 @@ f<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet'>
 <li>The words are then sent to the corresponding machines.</li>
 </ul>
 <ul class="incremental">
-<li>Within each machine, a count operation is conducted.</li>
+<li>Within each machine, the same words are grouped together.</li>
 </ul>
 <ul class="incremental">
-<li>The 1000 count results can be trivially combined to give the final answer.</li>
+<li>With each machine, count operations are conducted for each group.</li>
+</ul>
+<ul class="incremental">
+<li>The 1000 count results can be trivially combined to give the final frequency count.</li>
 </ul>
 <ul class="incremental">
 <li>You just witness a quintessential MapReduce procedure.</li>
 </ul>
 </section>
 <section id="but-where-are-map-and-reduce" class="slide level2">
-<h1>But where are Map and Reduce</h1>
+<h1>But where are Map and Reduce?</h1>
 <ul class="incremental">
-<li>MapReduce framework is popularized by Google.</li>
+<li>MapReduce framework is popularized by Google (http://research.google.com/archive/mapreduce.html).</li>
 </ul>
 <ul class="incremental">
 <li>It is called MapReduce since it is inspired by two common operations in Functional Programming, map and reduce.</li>
@@ -290,7 +295,7 @@ f<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet'>
 <li>You can install Hadoop on your multi-core/multi-CPU computer and play with it.</li>
 </ul>
 <ul class="incremental">
-<li>But to have a taste of the real MapReduce computations, try Amazon EMR.</li>
+<li>But to have a taste of some real MapReduce computations, try Amazon EMR.</li>
 </ul>
 <ul class="incremental">
 <li>Amazon EMR run Hadoop on data hosted by Amazon Simple Storage Service (S3) with virtual machines provided by Amazon Elastic Computing Cloud (EC2).</li>
