@@ -204,16 +204,16 @@ f<link href='http://fonts.googleapis.com/css?family=Oxygen' rel='stylesheet'>
 <ul class="incremental">
 <li>In the Word Count example, the map step is to apply an identity function to each of the word in the corpus, or more abstractly turn each word into a pair of key and value
 <ul class="incremental">
-<li>MAP: word -&gt; {key:word, value:1}</li>
+<li>MAP: word -&gt; {key:=word, value:=1}</li>
 </ul></li>
 </ul>
 <ul class="incremental">
-<li>The shuffle step aggregates the words across the machines via hashing. The pairs with the same key form a single group, {key:word, value:1,…, value:1}.</li>
+<li>The shuffle step aggregates the words across the machines via hashing. The pairs with the same key form a single group, {key:=word, value:=1,…, value:=1}.</li>
 </ul>
 <ul class="incremental">
 <li>The reduce step is to apply add operation to all the groups, and the sums are the counts for the words
 <ul class="incremental">
-<li>REDUCE: {key:word, value:1,…, value:1} -&gt; {key:word, value:N}</li>
+<li>REDUCE: {key:=word, value:=1,…, value:=1} -&gt; {key:=word, value:=N}</li>
 </ul></li>
 </ul>
 </section>
