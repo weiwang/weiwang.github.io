@@ -30,7 +30,7 @@ China</a>. </p>
      Forecasting. Forthcoming. [pdf](research/forecasting-with-nonrepresentative-polls.pdf)
 
    - Wei Wang and Andrew Gelman. _Difficulty of Selecting among Multilevel Model
-    using Predictive Accuracy_. Statistics and Its Interfaces. Forthcoming. [pdf](research/xval.pdf)
+    using Predictive Accuracy_. Statistics and Its Interfaces. Forthcoming. [pdf](research/difficulty-of-selecting-multilevel-models.pdf)
 
    - Aira Toivgoo, Wei Wang and Susan Witte. 2013.  _Reducing Risk
 Behaviors Linked to Noncommunicable Diseases in Mongolia: A Randomized Controlled
