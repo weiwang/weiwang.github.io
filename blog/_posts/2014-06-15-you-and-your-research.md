@@ -17,8 +17,11 @@ first-class scientific and technological works and try to pinpoint the catalyst
 of innovations and originality. To name a few: 
 
 - deep pocket of a "legally monopoly" company; 
+
 - working on the most promising fields of the time, in this case electronics and telecommunications; 
+
 - an interdisciplinary structure and an open culture that encourages, or even requires exchanges of ideas; 
+
 - get the best experts around. 
 
 This book mostly focuses on the management side and talks about how to build an
