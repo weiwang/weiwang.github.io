@@ -2,6 +2,8 @@
 layout: teaching
 title:  Wang, Wei's Teaching Page
 ---
+** BDA Class 2b JITTS **
+
 Here is the result of fitting a logistic regression to Republican vote in the 1972 NES.
 
     R> glm(formula = vote ~ income, family=binomial(link="logit"))
