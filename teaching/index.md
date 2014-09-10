@@ -9,7 +9,7 @@ As the Instructor
 
 As a Teaching Assistant
 
-- STAT G6103 _Bayesian Data Analysis_, Fall 2014_
+- STAT G6103 _Bayesian Data Analysis_, Fall 2014
 - STAT S4242 _Intro to Data Science_, Summer 2014
 - STAT W4249 _Applied Data Science_, Spring 2014
 - STAT W4240 _Data Mining_, Fall 2013
