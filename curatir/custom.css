@@ -1,0 +1,9 @@
+#img img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#small {
+    font-size: 75%;
+}
