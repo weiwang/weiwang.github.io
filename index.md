@@ -11,7 +11,8 @@ Columbia University<br>
 1255 Amsterdam Avenue Room 901<br>
 New York, NY 10027
 <br>
-<a href="CV_WeiWang.pdf">[CV]</a><br><br></p>
+<a href="CV_WeiWang.pdf">[CV]</a>
+<a href="resume_WeiWang.pdf">[Resume]</a><br><br></p>
 
 <p>I am a PhD candidate at <a href="http://stat.columbia.edu">Department of
 Statistics</a>, Columbia University. My interests lie in answering social,
