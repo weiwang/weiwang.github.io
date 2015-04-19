@@ -37,7 +37,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 2.3, 2.8 (Events);
   - 2.11, 2.26 (Probability);
   - [Accompanying R codes](./r_code_hw1.R)
-  <!-- - [Solutions](./HW_1_solutions.pdf) -->
   
 
   Due on Wed Sep 19^th.
@@ -60,7 +59,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 2.29, 2.38 (Counting);
   - 2.45, 2.56, 2.59, 2.60 (Conditional Probability)
   - 2,74, 2.78 (Independence);
-  <!-- - [Solutions](./HW_2_solutions.pdf) -->
   
 
   Due on Mon Oct 1^st
@@ -82,7 +80,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   - 3.10, 3.14, 3.19, 3.24 (Discrete RVs and Distributions);
   - 3.30, 3.39 (Expectation and Variance);
-  <!-- - [Solutions](./HW_3_solutions.pdf) -->
   
 
   Due on Wed Oct 3^rd
@@ -105,7 +102,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 3.47a,b,f,g; 3.49; 3.50; 3.58 (Binomial Distribution);
   - 3.68 (Hypergeometric Distribution);
   - 3.81, 3.86 (Poisson Distribution)
-  <!-- - [Solutions](./HW4_solutions.pdf) -->
   
 
   Due on Wed Oct 10^th
@@ -130,7 +126,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 4.28e,f,g; 4.29c,d,e; 4.42; 4.45 (Normal Distribution);
   - 4.60, 4.70 (Exponential Distribution);
   - 4.88 (Normal Probability Plot)
-  <!-- - [Solutions](./HW5_solutions.pdf) -->
   
 
   Due on Wed Oct 17^th
@@ -147,7 +142,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   Textbook sections covered: 5.2
 
-   Midterm Practice Problems: 2.38, 2.63, 2.93, 2.101, 3.52, 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.22 <!-- [Solutions](./midterm_practice_solutions.pdf) -->
 
 
 - [Lecture 14](./lecture14.pdf), Oct 22^nd
@@ -172,7 +166,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 5.41 (Sampling Distributions)
   - 5.46, 5.50, 5.53 (Distribution of Sample Means)
   - 5.60 (Distribution of Linear Combinations)
-  <!-- - [Solutions](./HW6_solutions.pdf) -->
   
 
   Due on Wed Nov 7^th
@@ -188,7 +181,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   - 6.3, 6.4, 6.5 (Estimators)
   - 6.11, 6.15 (Measure of Good Estimators)
-  <!-- - [Solutions](./HW7_solutions.pdf) -->
   
 
   Due on Wed Nov 14^th
@@ -210,7 +202,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
 
   - 6.28a (Maximum Likelihood Estimator)
   - 7.3; 7.4a,c,e; 7.6 (Confidence Interval)
-  <!-- - [solutions](./HW8_solutions.pdf) -->
   
 
   Due on Mon Nov 26^th
@@ -234,7 +225,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 7.21, 7.23a (Large-Sample Confidence Interval for a Population Proportion)
   - 7.30a,b,c; 7.33; 7.37a (Confidence Intervals based on t Distribution)
   - 8.2a,b,c,d (Hypothesis)
-  <!-- - [Solutions](./HW9_solutions.pdf) -->
   
 
   Due on Mon Dec 3^rd
@@ -264,7 +254,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 8.19, 8.26, 8.27, 8.29a (Testing Population Mean)
   - 8.37, 8.39 (Testing Population Proportion)
   - 8.71, 8.76 (P-value)
-  <!-- - [Solutions](./HW10_solutions.pdf) -->
   
 
   Due on Mon Dec 10^th  
@@ -283,7 +272,6 @@ W1211 Introduction to Statistics with Calculus, Fall 2012
   - 6.11, 6.15, Example 6.16
   - 7.16, 7.20, 7.34a
   - 8.58, 8.75 and 8.26, 8.37
-  <!-- - [Solutions](./final_prac_solutions.pdf) -->
   <!-- - [Quiz 2](./quiz2.pdf) -->
   
 
