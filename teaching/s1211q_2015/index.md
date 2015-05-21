@@ -40,7 +40,7 @@ S1211Q Introduction to Statistics with Calculus
 
   - Textbook sections covered: 1.4, 2.1, 2.2
 
-- [Little Quiz](./quiz4.html), [Lecture 4](./lecture4.pdf), May 29, Homework 1 Due
+- [Little Quiz](./quiz4.html), [Lecture 4](./lecture4.pdf), May 29
 
   - Probability Properties continued
   - Counting Techniques
@@ -77,7 +77,7 @@ S1211Q Introduction to Statistics with Calculus
    Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>  
 {% endcomment %}
 
-- [Lecture 7](./lecture7.pdf), June 3, Homework 2 Due.
+- [Lecture 7](./lecture7.pdf), June 3
 
   - CDF
   - Expectation
@@ -192,7 +192,7 @@ S1211Q Introduction to Statistics with Calculus
   
   - Textbook sections covered: 8.1
 
-- [Lecture 18](./lecture18.pdf), June 23, Homework 5 Due
+- [Lecture 18](./lecture18.pdf), June 23
 
   - Testing Hypothesis about a Single Mean and Proportion
   
