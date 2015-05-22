@@ -18,8 +18,7 @@ S1211Q Introduction to Statistics with Calculus
 {% comment %}
  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
 {% endcomment %}
-- [Little Quiz](./quiz2.html), [Lecture 2](./lecture2.pdf), [R Demo
-  Code](./R_demo_2.R), May 27
+- [Lecture 2], May 27
 
   - Histogram
   - Measure of Location
@@ -30,8 +29,7 @@ S1211Q Introduction to Statistics with Calculus
 
   - Textbook sections covered: 1.2, 1.3, 1.4
 
-- [Little Quiz](./quiz3.html), [Lecture 3](./lecture3.pdf), [R Demo
-  Code](./R_demo_3.R), May 28
+-  [Lecture 3], May 28
 
   - Experiments and Events
   - Event Operations
@@ -40,7 +38,7 @@ S1211Q Introduction to Statistics with Calculus
 
   - Textbook sections covered: 1.4, 2.1, 2.2
 
-- [Little Quiz](./quiz4.html), [Lecture 4](./lecture4.pdf), May 29
+-  [Lecture 4], May 29
 
   - Probability Properties continued
   - Counting Techniques
@@ -57,13 +55,13 @@ S1211Q Introduction to Statistics with Calculus
 
    Due at the end of Wed July 11^th lecture. 
 {% endcomment %}
-- [Lecture 5](./lecture5.pdf), June 1
+- [Lecture 5], June 1
 
   - Conditional Probability and Independence
 
   - Textbook sections covered: 2.4, 2.5
 
-- [Lecture 6](./lecture6.pdf), June 2
+- [Lecture 6], June 2
 
   - Independence
   - Random Variables
@@ -77,7 +75,7 @@ S1211Q Introduction to Statistics with Calculus
    Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>  
 {% endcomment %}
 
-- [Lecture 7](./lecture7.pdf), June 3
+- [Lecture 7], June 3
 
   - CDF
   - Expectation
@@ -94,14 +92,14 @@ S1211Q Introduction to Statistics with Calculus
   
    Due at the end of Wed July 18^th lecture 
 {% endcomment %}  
-- [Lecture 8](./lecture8.pdf), June 4
+- [Lecture 8], June 4
 
   - Binomial Distribution Cont'd
   - 1^st midterm
   
   - Textbook sections covered: 3.4
 
-- [Little Quiz](./quiz9.html), [Lecture 9](./lecture9.pdf), [R Demo](./R_demo_9.R), June 8
+- [Lecture 9], June 8
 
   - Poisson Distribution
   - Continuous Probability Distributions
@@ -109,14 +107,14 @@ S1211Q Introduction to Statistics with Calculus
 
   - Textbook sections covered: 3.6, 4.1, 4.2
 
-- [Little Quiz](./quiz10.html), [Lecture 10](./lecture10.pdf), June 9
+-  [Lecture 10], June 9
 
   - Normal Distribution
   - Exponential Distribution
   
   - Textbook sections covered: 4.3, 4.4
 
-- [Little Quiz](./quiz11.html), [Lecture 11](./lecture11.pdf), June 10
+- [Lecture 11], June 10
 
   - Jointly Distributed Random Variables
   
@@ -132,20 +130,20 @@ S1211Q Introduction to Statistics with Calculus
 
    Due at the end of Tue July 24^th lecture        
 {% endcomment %}
-- [Lecture 12](./lecture12.pdf), June 11
+- [Lecture 12], June 11
 
   - Statistics and Their Sampling Distributions
   
   - Textbook sections covered: 5.3, 5.4
 
-- [Little Quiz](./quiz13.html), [Lecture 13](./lecture13.pdf), [R Demo](./R_demo_13.R), June 15
+- [Lecture 13], June 15
 
   - Central Limit Theorem
   - Point Estimation
   
   Textbook sections covered: 5.4, 6.1, 6.2
 
-- [Little Quiz](./quiz14.html), [Lecture 14](./lecture14.pdf), June 16
+- [Lecture 14], June 16
 
   - Point Estimation Cont'd
   - Intro to Confidence Interval
@@ -170,7 +168,7 @@ S1211Q Introduction to Statistics with Calculus
 
    <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font> 
 {% endcomment %}  
-- [Little Quiz](./quiz15.html), [Lecture 15](./lecture15.pdf), June 17
+- [Lecture 15], June 17
 
   - Large-sample CI for a Population Mean
   - CI for a Population Proportion
@@ -178,27 +176,27 @@ S1211Q Introduction to Statistics with Calculus
   
   - Textbook sections covered: 7.2, 7.3
 
-- [Lecture 16](./lecture16.pdf), June 18
+- [Lecture 16], June 18
 
   - Intervals Based on t Distribution
   - 2^nd midterm
   
   - Textbook sections covered: 7.3
 
-- [Lecture 17](./lecture17.pdf), June 22
+- [Lecture 17], June 22
 
   - Intro to Hypothesis Testing
   - Testing Procedures and Errors
   
   - Textbook sections covered: 8.1
 
-- [Lecture 18](./lecture18.pdf), June 23
+- [Lecture 18], June 23
 
   - Testing Hypothesis about a Single Mean and Proportion
   
   - Textbook sections covered: 8.2, 8.3
 
-- [Lecture 19](./lecture19.pdf), June 24
+- [Lecture 19], June 24
 
   - P-values
   - Intro to Two Samples Inference
@@ -216,14 +214,14 @@ S1211Q Introduction to Statistics with Calculus
 
    Due at the end of Wed Aug 8^th lecture 
 {% endcomment %}
-- [Little Quiz](./quiz20.html), [Lecture 20](./lecture20.pdf), June 25
+- [Lecture 20], June 25
 
   - Two-Sample t test and CI,
   - Scatter Plot
   
   - Textbook sections covered: 9.2, 9.3, 12.1
 
-- [Lecture 21](./lecture21.pdf), June 29
+- [Lecture 21], June 29
 
   - Simple Linear Regression
   - Estimation of Model Parameters
@@ -234,7 +232,7 @@ S1211Q Introduction to Statistics with Calculus
    <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean), 12.12abcd </font>
 {% endcomment %}
 
-- [Lecture 22](./lecture22.pdf), [R Code](./R_demo_22.R), June 30
+- [Lecture 22], June 30
 
   - Inference about the Slope
   
