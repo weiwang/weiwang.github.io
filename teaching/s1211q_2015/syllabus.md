@@ -1,6 +1,6 @@
 ---
 layout: teaching
-title:  Wang, Wei's Teaching Page
+title:  
 ---
 ## S1211Q Syllabus
 
