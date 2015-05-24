@@ -6,15 +6,15 @@ S1211Q Introduction to Statistics with Calculus
 
 - Syllabus \[[html](./syllabus.html)\] \[[pdf](./syllabus.pdf)\]
 - [R resources](../r_resources.html)
-- [Intro and Teaser](./intro.html)
+
 
 - [Lecture 1], May 26
 
+  - Intro
   - Population and Sample
   - Probability and Statistical Inference
   - Stem-and-Leaf, Displays, Dotplot, Histogram
 
-  - Textbook sections covered: 1.1, 1.2
 {% comment %}
  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
 {% endcomment %}
@@ -27,7 +27,6 @@ S1211Q Introduction to Statistics with Calculus
   - Box Plot
   - Standard Deviation
 
-  - Textbook sections covered: 1.2, 1.3, 1.4
 
 -  [Lecture 3], May 28
 
@@ -36,14 +35,13 @@ S1211Q Introduction to Statistics with Calculus
   - Axioms of Probability
   - Basic Properties
 
-  - Textbook sections covered: 1.4, 2.1, 2.2
 
--  [Lecture 4], May 29
+-  [Lecture 4], May 29, Quiz 1, HW1 due
 
   - Probability Properties continued
   - Counting Techniques
+  
 
-  - Textbook sections covered: 2.2, 2.3
 {% comment %}
    <font color="red"> Homework 2: Exercises  
    - 1.54 (Boxplot) 
@@ -59,7 +57,6 @@ S1211Q Introduction to Statistics with Calculus
 
   - Conditional Probability and Independence
 
-  - Textbook sections covered: 2.4, 2.5
 
 - [Lecture 6], June 2
 
@@ -67,7 +64,6 @@ S1211Q Introduction to Statistics with Calculus
   - Random Variables
   - Discrete Distributions
   
-  - Textbook sections covered: 2.5, 3.1, 3.2
 
 {% comment %}
    <font color="red">Midterm 1 covers materials up to this lecture. 
@@ -82,7 +78,6 @@ S1211Q Introduction to Statistics with Calculus
   - Variance
   - Binomial Distribution
   
-  - Textbook sections covered: 3.3, 3.4 
 
 {% comment %}
    <font color="red">Homework 3:  
@@ -92,12 +87,9 @@ S1211Q Introduction to Statistics with Calculus
   
    Due at the end of Wed July 18^th lecture 
 {% endcomment %}  
-- [Lecture 8], June 4
+- [Lecture 8], June 4 Quiz 2, HW2 due
 
   - Binomial Distribution Cont'd
-  - 1^st midterm
-  
-  - Textbook sections covered: 3.4
 
 - [Lecture 9], June 8
 
@@ -105,20 +97,17 @@ S1211Q Introduction to Statistics with Calculus
   - Continuous Probability Distributions
   - Uniform Distribution
 
-  - Textbook sections covered: 3.6, 4.1, 4.2
 
 -  [Lecture 10], June 9
 
   - Normal Distribution
   - Exponential Distribution
   
-  - Textbook sections covered: 4.3, 4.4
 
 - [Lecture 11], June 10
 
   - Jointly Distributed Random Variables
   
-  - Textbook sections covered: 5.1, 5.2
 {% comment %}
    <font color="red">Homework 4:  
    - 4.2, 4.4 (Continuous Distributions)  
@@ -130,25 +119,22 @@ S1211Q Introduction to Statistics with Calculus
 
    Due at the end of Tue July 24^th lecture        
 {% endcomment %}
-- [Lecture 12], June 11
+- [Lecture 12], June 11 Midterm, HW3 Due
 
   - Statistics and Their Sampling Distributions
   
-  - Textbook sections covered: 5.3, 5.4
 
 - [Lecture 13], June 15
 
   - Central Limit Theorem
   - Point Estimation
   
-  Textbook sections covered: 5.4, 6.1, 6.2
 
 - [Lecture 14], June 16
 
   - Point Estimation Cont'd
   - Intro to Confidence Interval
   
-  - Textbook sections covered: 6.2, 7.1
 
 {% comment %}
    <font color="red">Homework 5:  
@@ -174,34 +160,29 @@ S1211Q Introduction to Statistics with Calculus
   - CI for a Population Proportion
   - The t Distributions
   
-  - Textbook sections covered: 7.2, 7.3
 
-- [Lecture 16], June 18
+- [Lecture 16], June 18 Quiz 3, HW4 due
 
   - Intervals Based on t Distribution
   - 2^nd midterm
   
-  - Textbook sections covered: 7.3
 
 - [Lecture 17], June 22
 
   - Intro to Hypothesis Testing
   - Testing Procedures and Errors
   
-  - Textbook sections covered: 8.1
 
 - [Lecture 18], June 23
 
   - Testing Hypothesis about a Single Mean and Proportion
   
-  - Textbook sections covered: 8.2, 8.3
 
 - [Lecture 19], June 24
 
   - P-values
   - Intro to Two Samples Inference
   
-  - Textbook sections covered: 8.4, 9.1
 {% comment %}
    <font color="red">Homework 6:  
    - 7.13, 7.18 (Intervals based on Normal Distribution) 
@@ -214,19 +195,17 @@ S1211Q Introduction to Statistics with Calculus
 
    Due at the end of Wed Aug 8^th lecture 
 {% endcomment %}
-- [Lecture 20], June 25
+- [Lecture 20], June 25 Quiz 4, HW5 Due
 
   - Two-Sample t test and CI,
   - Scatter Plot
   
-  - Textbook sections covered: 9.2, 9.3, 12.1
 
 - [Lecture 21], June 29
 
   - Simple Linear Regression
   - Estimation of Model Parameters
   
-  - Textbook sections covered: 12.1, 12.2
   
 {% comment %}
    <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean), 12.12abcd </font>
@@ -236,15 +215,13 @@ S1211Q Introduction to Statistics with Calculus
 
   - Inference about the Slope
   
-  - Textbook sections covered: 12.3
 
 - Lecture 23, July 1
 
   - Review 
 
-- Lecture 24, July 2
+- Lecture 24, July 2 Final, HW6 Due
 
-  - Final Exam
   
   
 
