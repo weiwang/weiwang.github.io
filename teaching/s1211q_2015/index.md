@@ -14,10 +14,8 @@ S1211Q Introduction to Statistics with Calculus
   - Population and Sample
   - Probability and Statistical Inference
   - Stem-and-Leaf, Displays, Dotplot, Histogram
+  -  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44, [R question](./r-question-1.html).</font>  Due at the beginning of Friday lecture.
 
-{% comment %}
- <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44.</font> [R Code](./hw1.R). Due at the end of Friday lecture.
-{% endcomment %}
 - [Lecture 2], May 27
 
   - Histogram
