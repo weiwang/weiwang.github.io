@@ -53,7 +53,7 @@ title:
 
 -   **Teaching Assistant**
 
-    * Adji Adieng
+    * Adji Dieng
     * adieng2141@columbia.edu
     * Office hours: TBD
 
