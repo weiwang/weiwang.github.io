@@ -10,7 +10,7 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 1], May 26
 
-  - Intro
+  - [Intro](./intro.html)
   - Population and Sample
   - Probability and Statistical Inference
   - Stem-and-Leaf, Displays, Dotplot, Histogram
@@ -97,7 +97,6 @@ S1211Q Introduction to Statistics with Calculus
   - Continuous Probability Distributions
   - Uniform Distribution
 
-
 -  [Lecture 10], June 9
 
   - Normal Distribution
@@ -116,13 +115,10 @@ S1211Q Introduction to Statistics with Calculus
    - 4.60 (Exponential Distribution) 
    - 5.7, 5.22 (Joint Distribution)</font> 
 
-
-   Due at the end of Tue July 24^th lecture        
 {% endcomment %}
 - [Lecture 12], June 11 Midterm, HW3 Due
 
   - Statistics and Their Sampling Distributions
-  
 
 - [Lecture 13], June 15
 
@@ -135,7 +131,6 @@ S1211Q Introduction to Statistics with Calculus
   - Point Estimation Cont'd
   - Intro to Confidence Interval
   
-
 {% comment %}
    <font color="red">Homework 5:  
    - 5.46, 5.50, 5.53 (Distribution of Sample Mean) 
@@ -143,16 +138,8 @@ S1211Q Introduction to Statistics with Calculus
    - 6.3, 6.5, 6.28 (Point Estimation) 
    - 7.3, 7.6 (Confidence Interval)</font> 
 
-   Due at the end of Tue June 31^st lecture 
 
-   <font color="red">2^nd Midterm Coverage in Sections 
-   - 3.3, 3.4, 3.6(no Poisson Process) 
-   - 4.1, 4.2, 4.3(no Approximating the Binomial Distribution), 4.4(The Exponential Part),  
-   - 5.1, 5.2(understand the concepts, no calculation required), 5.4, 5.5 
-   - 6.1 
-   </font> 
-
-   <font color="red"> 2^nd Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font> 
+   <font color="red"> 2<sup>nd</sup> Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font> 
 {% endcomment %}  
 - [Lecture 15], June 17
 
@@ -192,20 +179,16 @@ S1211Q Introduction to Statistics with Calculus
    - 8.37 (Test Concerning a Population Proportion) 
    - 8.51a,b,c, 8.55, 8.58 (P-Values)</font> 
 
-
-   Due at the end of Wed Aug 8^th lecture 
 {% endcomment %}
 - [Lecture 20], June 25 Quiz 4, HW5 Due
 
   - Two-Sample t test and CI,
   - Scatter Plot
   
-
 - [Lecture 21], June 29
 
   - Simple Linear Regression
   - Estimation of Model Parameters
-  
   
 {% comment %}
    <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean), 12.12abcd </font>
@@ -213,7 +196,7 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 22], June 30
 
-  - Inference about the Slope
+  - Inference about Regression Slope
   
 
 - Lecture 23, July 1
