@@ -8,7 +8,7 @@ S1211Q Introduction to Statistics with Calculus
 - [R resources](../r_resources.html)
 
 
-- [Lecture 1], May 26
+- [Lecture 1](./lecture1.pdf), May 26
 
   - [Intro](./intro.html)
   - Population and Sample
