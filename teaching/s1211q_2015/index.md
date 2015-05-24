@@ -14,7 +14,7 @@ S1211Q Introduction to Statistics with Calculus
   - Population and Sample
   - Probability and Statistical Inference
   - Stem-and-Leaf, Displays, Dotplot, Histogram
-  -  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, 1.44, [R question](./r-question-1.html).</font>  Due at the beginning of Friday lecture.
+  -  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, [R question](./r-question-1.html).</font>  Due at the beginning of Friday lecture.
 
 - [Lecture 2], May 27
 
@@ -25,7 +25,6 @@ S1211Q Introduction to Statistics with Calculus
   - Box Plot
   - Standard Deviation
 
-
 -  [Lecture 3], May 28
 
   - Experiments and Events
@@ -33,21 +32,19 @@ S1211Q Introduction to Statistics with Calculus
   - Axioms of Probability
   - Basic Properties
 
-
 -  [Lecture 4], May 29, Quiz 1, HW1 due
 
   - Probability Properties continued
   - Counting Techniques
-  
 
 {% comment %}
-   <font color="red"> Homework 2: Exercises  
+   <font color="red"> Homework 2: Exercises 
    - 1.54 (Boxplot) 
    - 2.3, 2.8 (Events) 
    - 2.11, 2.26 (Probability) 
    - 2.29, 2.35, 2.38 (Counting) 
    - 2.56, 2.59 (Conditional Probability) 
-   - 2.74, 2.78, 2.80 (Independence)</font>  
+   - 2.74, 2.78, 2.80 (Independence)</font> 
 
    Due at the end of Wed July 11^th lecture. 
 {% endcomment %}
@@ -55,13 +52,11 @@ S1211Q Introduction to Statistics with Calculus
 
   - Conditional Probability and Independence
 
-
 - [Lecture 6], June 2
 
   - Independence
   - Random Variables
-  - Discrete Distributions
-  
+  - Discrete Distributions 
 
 {% comment %}
    <font color="red">Midterm 1 covers materials up to this lecture. 
@@ -78,14 +73,14 @@ S1211Q Introduction to Statistics with Calculus
   
 
 {% comment %}
-   <font color="red">Homework 3:  
-   - 3.10, 3.19, 3.24 (Discrete RV and Distributions)  
-   - 3.30, 3.33, 3.37 (Expectation and Variance)  
+   <font color="red">Homework 3: 
+   - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
+   - 3.30, 3.33, 3.37 (Expectation and Variance) 
    - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)</font> 
   
    Due at the end of Wed July 18^th lecture 
 {% endcomment %}  
-- [Lecture 8], June 4 Quiz 2, HW2 due
+- [Lecture 8], June 4, Quiz 2, HW2 due
 
   - Binomial Distribution Cont'd
 
@@ -114,7 +109,7 @@ S1211Q Introduction to Statistics with Calculus
    - 5.7, 5.22 (Joint Distribution)</font> 
 
 {% endcomment %}
-- [Lecture 12], June 11 Midterm, HW3 Due
+- [Lecture 12], June 11, Midterm, HW3 Due
 
   - Statistics and Their Sampling Distributions
 
@@ -130,15 +125,15 @@ S1211Q Introduction to Statistics with Calculus
   - Intro to Confidence Interval
   
 {% comment %}
-   <font color="red">Homework 5:  
+   <font color="red">Homework 5: 
    - 5.46, 5.50, 5.53 (Distribution of Sample Mean) 
-   - 5.60 (Distribution of Linear Combinations)   
+   - 5.60 (Distribution of Linear Combinations) 
    - 6.3, 6.5, 6.28 (Point Estimation) 
    - 7.3, 7.6 (Confidence Interval)</font> 
 
 
    <font color="red"> 2<sup>nd</sup> Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font> 
-{% endcomment %}  
+{% endcomment %} 
 - [Lecture 15], June 17
 
   - Large-sample CI for a Population Mean
@@ -146,11 +141,9 @@ S1211Q Introduction to Statistics with Calculus
   - The t Distributions
   
 
-- [Lecture 16], June 18 Quiz 3, HW4 due
+- [Lecture 16], June 18, Quiz 3, HW4 due
 
   - Intervals Based on t Distribution
-  - 2^nd midterm
-  
 
 - [Lecture 17], June 22
 
@@ -169,16 +162,16 @@ S1211Q Introduction to Statistics with Calculus
   - Intro to Two Samples Inference
   
 {% comment %}
-   <font color="red">Homework 6:  
+   <font color="red">Homework 6: 
    - 7.13, 7.18 (Intervals based on Normal Distribution) 
-   - 7.32, 7.34a  (t Intervals)   
+   - 7.32, 7.34a  (t Intervals) 
    - 8.5 (Test Procedure) 
    - 8.16, 8.25, 8.26, 8.29a (Test Concerning a Population Mean) 
    - 8.37 (Test Concerning a Population Proportion) 
    - 8.51a,b,c, 8.55, 8.58 (P-Values)</font> 
 
 {% endcomment %}
-- [Lecture 20], June 25 Quiz 4, HW5 Due
+- [Lecture 20], June 25, Quiz 4, HW5 Due
 
   - Two-Sample t test and CI,
   - Scatter Plot
@@ -201,7 +194,7 @@ S1211Q Introduction to Statistics with Calculus
 
   - Review 
 
-- Lecture 24, July 2 Final, HW6 Due
+- Lecture 24, July 2, Final, HW6 Due
 
   
   
