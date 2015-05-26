@@ -14,6 +14,7 @@ S1211Q Introduction to Statistics with Calculus
   - Population and Sample
   - Probability and Statistical Inference
   - Stem-and-Leaf, Histogram
+  - Sections covered 1.1, 1.2
   -  <font color="red">Homework 1: Exercise 1.3,  1.24, 1.36, 1.38, 1.51, [R question](./r-question-1.html).</font> Due at the beginning of Friday lecture in paper.
 
 - [Lecture 2], May 27
@@ -25,6 +26,7 @@ S1211Q Introduction to Statistics with Calculus
   - Box Plot
   - Standard Deviation
   - Outlier
+  - Sections covered 1.2, 1.3, 1.4
 
 -  [Lecture 3], May 28
 
@@ -32,11 +34,13 @@ S1211Q Introduction to Statistics with Calculus
   - Event Operations
   - Axioms of Probability
   - Basic Properties
+  - Sections covered 2.1, 2.2
 
 -  [Lecture 4], May 29, Quiz 1, HW1 due
 
   - Probability Properties continued
   - Counting Techniques
+  - Sections covered 2.2, 2.3
 
 {% comment %}
    <font color="red"> Homework 2: Exercises 
@@ -52,6 +56,7 @@ S1211Q Introduction to Statistics with Calculus
 - [Lecture 5], June 1
 
   - Conditional Probability and Independence
+  - Sections covered 2.4, 2.5
 
 - [Lecture 6], June 2
 
