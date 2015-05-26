@@ -8,24 +8,25 @@ S1211Q Introduction to Statistics with Calculus
 - [R resources](../r_resources.html)
 
 
-- [Lecture 1](./lecture1.pdf), May 26
+- [Lecture 1](./lecture1.pdf), [R Demo](./R_demo_1.R), May 26
 
   - [Intro](./intro.html)
   - Population and Sample
   - Probability and Statistical Inference
-  - Stem-and-Leaf, Displays, Dotplot, Histogram
+  - Stem-and-Leaf, Histogram
   {% comment %}
   -  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, [R question](./r-question-1.html).</font>  Due at the beginning of Friday lecture.
   {% endcomment %}
 
 - [Lecture 2], May 27
 
-  - Histogram
+  - Density Histogram
   - Measure of Location
   - Mean and Median
   - Measure of Variability
   - Box Plot
   - Standard Deviation
+  - Outlier
 
 -  [Lecture 3], May 28
 
