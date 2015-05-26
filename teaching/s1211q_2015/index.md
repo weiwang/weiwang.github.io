@@ -14,9 +14,7 @@ S1211Q Introduction to Statistics with Calculus
   - Population and Sample
   - Probability and Statistical Inference
   - Stem-and-Leaf, Histogram
-  {% comment %}
-  -  <font color="red">Homework 1: Exercise 1.3, 1.12, 1.24, 1.36, 1.38, [R question](./r-question-1.html).</font>  Due at the beginning of Friday lecture.
-  {% endcomment %}
+  -  <font color="red">Homework 1: Exercise 1.3,  1.24, 1.36, 1.38, 1.51, [R question](./r-question-1.html).</font> Due at the beginning of Friday lecture in paper.
 
 - [Lecture 2], May 27
 

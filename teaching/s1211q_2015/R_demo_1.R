@@ -1,3 +1,27 @@
+## install ggplot2
+install.packages("ggplot2")
+## load ggplot2
+library(ggplot2)
+## load diamonds data set
+data(diamonds)
+## information of the data set
+?diamonds
+## first 6 lines of diamonds
+head(diamonds)
+## size
+dim(diamonds)
+## variable-wise summary
+summary(diamonds)
+## scatter plot of carat vs price
+plot(diamonds$carat, diamonds$price)
+## some transformation
+plot(diamonds$carat, log(diamonds$price))
+## to learn more about built-in functions
+?head
+?dim
+?summary
+?plot
+
 ## Stem-and-Leaf plot
 islands # Areas of the World' major landmasses
 stem(log10(islands))
