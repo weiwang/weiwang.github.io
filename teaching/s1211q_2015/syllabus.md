@@ -10,11 +10,11 @@ title:
     * 1255 Amsterdam Ave, Rm 901
     * New York, NY 10027
     * ww2243@columbia.edu
-    * Office hours: TBD
+    * Office hours: After lecture
 
 -   **Lecture Time and Location**
 
-    Monday - Thursday 2:45p - 4:20p @ 516 Hamilton Hall
+    Monday - Thursday, 2:45p - 4:20p @ 516 Hamilton Hall
 
 -   **Course Description**
 
