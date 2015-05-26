@@ -17,7 +17,7 @@ S1211Q Introduction to Statistics with Calculus
   - Sections covered 1.1, 1.2
   -  <font color="red">Homework 1: Exercise 1.3,  1.24, 1.36, 1.38, 1.51, [R question](./r-question-1.html).</font> Due at the beginning of Friday lecture in paper.
 
-- [Lecture 2](./lecture2.pdf), [R Demo](), May 27
+- [Lecture 2](./lecture2.pdf), [R Demo](./R_demo_2.R), May 27
 
   - Density Histogram
   - Measure of Location
