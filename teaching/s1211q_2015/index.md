@@ -28,7 +28,7 @@ S1211Q Introduction to Statistics with Calculus
   - Outlier
   - Sections covered 1.2, 1.3, 1.4
 
--  [Lecture 3], May 28
+-  [Lecture 3](./lecture3.pdf), [R Demo](./R_demo_3.R), May 28
 
   - Experiments and Events
   - Event Operations
@@ -70,7 +70,7 @@ S1211Q Introduction to Statistics with Calculus
    Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>  
 {% endcomment %}
 
-- [Lecture 7], June 3
+- [Lecture 7], June 3, HW2 Due
 
   - CDF
   - Expectation
@@ -86,7 +86,7 @@ S1211Q Introduction to Statistics with Calculus
   
    Due at the end of Wed July 18^th lecture 
 {% endcomment %}  
-- [Lecture 8], June 4, Quiz 2, HW2 due
+- [Lecture 8], June 4, Quiz 2
 
   - Binomial Distribution Cont'd
 
@@ -102,7 +102,7 @@ S1211Q Introduction to Statistics with Calculus
   - Exponential Distribution
   
 
-- [Lecture 11], June 10
+- [Lecture 11], June 10, HW3 Due
 
   - Jointly Distributed Random Variables
   
@@ -115,7 +115,7 @@ S1211Q Introduction to Statistics with Calculus
    - 5.7, 5.22 (Joint Distribution)</font> 
 
 {% endcomment %}
-- [Lecture 12], June 11, Midterm, HW3 Due
+- [Lecture 12], June 11, Midterm
 
   - Statistics and Their Sampling Distributions
 
@@ -140,14 +140,14 @@ S1211Q Introduction to Statistics with Calculus
 
    <font color="red"> 2<sup>nd</sup> Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font> 
 {% endcomment %} 
-- [Lecture 15], June 17
+- [Lecture 15], June 17, HW4 due
 
   - Large-sample CI for a Population Mean
   - CI for a Population Proportion
   - The t Distributions
   
 
-- [Lecture 16], June 18, Quiz 3, HW4 due
+- [Lecture 16], June 18, Quiz 3
 
   - Intervals Based on t Distribution
 
@@ -162,7 +162,7 @@ S1211Q Introduction to Statistics with Calculus
   - Testing Hypothesis about a Single Mean and Proportion
   
 
-- [Lecture 19], June 24
+- [Lecture 19], June 24, HW5 Due
 
   - P-values
   - Intro to Two Samples Inference
@@ -177,7 +177,7 @@ S1211Q Introduction to Statistics with Calculus
    - 8.51a,b,c, 8.55, 8.58 (P-Values)</font> 
 
 {% endcomment %}
-- [Lecture 20], June 25, Quiz 4, HW5 Due
+- [Lecture 20], June 25, Quiz 4
 
   - Two-Sample t test and CI,
   - Scatter Plot
@@ -196,11 +196,11 @@ S1211Q Introduction to Statistics with Calculus
   - Inference about Regression Slope
   
 
-- Lecture 23, July 1
+- Lecture 23, July 1, HW6 Due
 
   - Review 
 
-- Lecture 24, July 2, Final, HW6 Due
+- Lecture 24, July 2, Final
 
   
   
