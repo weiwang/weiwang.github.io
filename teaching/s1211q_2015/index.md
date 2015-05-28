@@ -36,10 +36,12 @@ S1211Q Introduction to Statistics with Calculus
   - Basic Properties
   - Sections covered 2.1, 2.2
 
--  [Lecture 4], May 29, Quiz 1, HW1 due
+-  [Lecture 4](./lecture4.pdf), [R Demo](./R_demo_4.R), May 29
 
+  - HW1 Due
   - Probability Properties continued
   - Counting Techniques
+  - Quiz 1
   - Sections covered 2.2, 2.3
 
 {% comment %}

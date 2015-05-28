@@ -3,7 +3,7 @@ s1 = c("TH", "TT")
 s2 = c("HT", "TT")
 union(s1, s2)
 interset(s1, s2)
-setdiff(s1, s2)
+setdiff(s1, s2i)
 
 ## Law of Large Numbers
 sample(c("T", "H"), 100, replace=T)
