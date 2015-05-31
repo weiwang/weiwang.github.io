@@ -8,7 +8,7 @@ title:  R Question HW1
 Install ``ggplot2`` pacakge in R and load ``diamonds`` dataset
 
 ```r
-install.package("ggplot2")
+install.packages("ggplot2")
 library(ggplot2)
 data(diamonds)
 ?diamonds
