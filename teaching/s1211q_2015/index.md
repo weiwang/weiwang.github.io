@@ -44,12 +44,13 @@ S1211Q Introduction to Statistics with Calculus
   - Quiz 1
   - Sections covered 2.2, 2.3
 
-   <font color="red"> Homework 2: Exercises 
-   - 2.3, 2.8 (Events) 
-   - 2.11, 2.26 (Probability) 
-   - 2.29, 2.36 (Counting) 
-   - 2.56, 2.74 (Conditional Probability and Independence)
-   - [R question](./r-question-2.html)
+   <font color="red">
+  - Homework 2: 
+    - 2.3, 2.8 (Events) 
+    - 2.11, 2.26 (Probability) 
+    - 2.29, 2.36 (Counting) 
+    - 2.56, 2.74 (Conditional Probability and Independence)
+    - [R question](./r-question-2.html)
    </font> 
 
 - [Lecture 5](./lecture5.pdf), June 1
