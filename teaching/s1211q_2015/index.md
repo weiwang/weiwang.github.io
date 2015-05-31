@@ -44,6 +44,7 @@ S1211Q Introduction to Statistics with Calculus
   - Quiz 1
   - Sections covered 2.2, 2.3
   - Homework 2: Due Wed June 3rd
+  
     - 2.3, 2.8 (Events) 
     - 2.11, 2.26 (Probability) 
     - 2.29, 2.36 (Counting) 
