@@ -51,7 +51,7 @@ S1211Q Introduction to Statistics with Calculus
      [R question](./r-question-2.html)
       Due Wed June 3rd.</font>
 
-- [Lecture 5](./lecture5.pdf), June 1
+- [Lecture 5](./lecture5.pdf), [R Demo](./R_demo_5.R), June 1
 
   - Conditional Probability and Independence
   - Sections covered 2.4, 2.5
