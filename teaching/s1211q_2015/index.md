@@ -68,7 +68,7 @@ S1211Q Introduction to Statistics with Calculus
    Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>  
 {% endcomment %}
 
-- [Lecture 7], June 3, HW2 Due
+- [Lecture 7](./lecture7.pdf), [R Demo](./R_demo_7.R), June 3, HW2 Due
 
   - CDF
   - Expectation
