@@ -56,7 +56,7 @@ S1211Q Introduction to Statistics with Calculus
   - Conditional Probability and Independence
   - Sections covered 2.4, 2.5
 
-- [Lecture 6], June 2
+- [Lecture 6](./lecture6.pdf), June 2
 
   - Independence
   - Random Variables
