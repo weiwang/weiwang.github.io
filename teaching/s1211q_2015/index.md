@@ -60,7 +60,10 @@ S1211Q Introduction to Statistics with Calculus
 
   - Independence
   - Random Variables
-  - Discrete Distributions 
+  - Discrete Distributions
+  - CDF
+  - Expectation
+
 
 {% comment %}
    <font color="red">Midterm 1 covers materials up to this lecture. 
@@ -70,27 +73,23 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 7](./lecture7.pdf), [R Demo](./R_demo_7.R), June 3, HW2 Due
 
-  - CDF
-  - Expectation
   - Variance
   - Binomial Distribution
+  - Hypergeometric Distribution
+  
+   <font color="red">Homework 3: 3.10, 3.19, 3.24 (Discrete RV and
+   Distributions), 3.30, 3.33, 3.37 (Expectation and Variance), 3.49, 3.50, 3.81
+   (Binomial and Poisson Distribution), [R question](./r-question-3.html), Due
+   Wed June 10th.</font>
   
 
-{% comment %}
-   <font color="red">Homework 3: 
-   - 3.10, 3.19, 3.24 (Discrete RV and Distributions) 
-   - 3.30, 3.33, 3.37 (Expectation and Variance) 
-   - 3.47, 3.49, 3.50, 3.81 (Binomial and Poisson Distribution)</font> 
-  
-   Due at the end of Wed July 18^th lecture 
-{% endcomment %}  
-- [Lecture 8], June 4, Quiz 2
+- [Lecture 8](./lecture8.pdf), June 4, Quiz 2
 
-  - Binomial Distribution Cont'd
+  - Poisson Distribution
+  - Continuous Probability Distributions
 
 - [Lecture 9], June 8
 
-  - Poisson Distribution
   - Continuous Probability Distributions
   - Uniform Distribution
 
