@@ -82,10 +82,11 @@ S1211Q Introduction to Statistics with Calculus
    Wed June 10th.</font>
   
 
-- [Lecture 8](./lecture8.pdf), June 4, Quiz 2
+- [Lecture 8](./lecture8.pdf), June 4
 
   - Poisson Distribution
   - Continuous Probability Distributions
+  - Quiz 2
 
 - [Lecture 9], June 8
 
