@@ -88,7 +88,7 @@ S1211Q Introduction to Statistics with Calculus
   - Continuous Probability Distributions
   - Quiz 2
 
-- [Lecture 9], June 8
+- [Lecture 9](./lecture8.pdf), June 8
 
   - Continuous Probability Distributions
   - Uniform Distribution
