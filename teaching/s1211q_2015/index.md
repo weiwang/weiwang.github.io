@@ -94,7 +94,7 @@ S1211Q Introduction to Statistics with Calculus
    <font color="red">Midterm covers materials up to (and including) this lecture. 
    Midterm practice questions: 1.57, 1.78, 2.93, 2.104, 3.11, 3.95, 4.100, 4.106</font>
 
-- [Lecture 11], June 10, HW3 Due
+- [Lecture 11](./lecture11.pdf), June 10, HW3 Due
 
   - Jointly Distributed Random Variables
   
