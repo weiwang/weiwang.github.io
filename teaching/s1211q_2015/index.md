@@ -64,13 +64,6 @@ S1211Q Introduction to Statistics with Calculus
   - CDF
   - Expectation
 
-
-{% comment %}
-   <font color="red">Midterm 1 covers materials up to this lecture. 
-  
-   Midterm 1 practice questions: 1.57, 1.78, 2.42, 2.93, 2.100, 2.101, 3.11</font>  
-{% endcomment %}
-
 - [Lecture 7](./lecture7.pdf), [R Demo](./R_demo_7.R), June 3, HW2 Due
 
   - Variance
@@ -93,11 +86,13 @@ S1211Q Introduction to Statistics with Calculus
   - Continuous Probability Distributions
   - Uniform Distribution
 
--  [Lecture 10], June 9
+- [Lecture 10](./lecture10.pdf), June 9
 
   - Normal Distribution
   - Exponential Distribution
-  
+
+   <font color="red">Midterm covers materials up to (and including) this lecture. 
+   Midterm 1 practice questions: 1.57, 1.78, 2.93, 2.104, 3.11, 3.95, 4.100, 4.106</font>
 
 - [Lecture 11], June 10, HW3 Due
 
