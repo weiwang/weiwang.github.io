@@ -98,15 +98,10 @@ S1211Q Introduction to Statistics with Calculus
 
   - Jointly Distributed Random Variables
   
-{% comment %}
-   <font color="red">Homework 4:  
-   - 4.2, 4.4 (Continuous Distributions)  
-   - 4.12, 4.15, 4.19 (CDF and Expected Values)  
-   - 4.28 e, f, g; 4.29 a, c, d; 4.36, 4.45 (Normal Distribution) 
-   - 4.60 (Exponential Distribution) 
-   - 5.7, 5.22 (Joint Distribution)</font> 
+   <font color="red">Homework 4: 
+   4.2, 4.4 (Continuous Distributions), 4.12, 4.23 (CDF and Expected Values), 4.28 e, f, g; 4.36, 4.45 (Normal Distribution), 5.7, 5.22 (Joint Distribution), [R question](./r-question-4.html)
+    </font> 
 
-{% endcomment %}
 - [Lecture 12], June 11, Midterm
 
   - Statistics and Their Sampling Distributions
