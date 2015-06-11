@@ -90,8 +90,7 @@ S1211Q Introduction to Statistics with Calculus
 
   - Normal Distribution
   - Exponential Distribution
-
-   <font color="red">Midterm covers materials up to (and including) this lecture. 
+  - <font color="red">Midterm covers materials up to (and including) this lecture. 
    Midterm practice questions: 1.57, 1.78, 2.93, 2.104, 3.11, 3.95, 4.100, 4.106, [Solutions](./midterm_prac_solutions.pdf)</font>
 
 - [Lecture 11](./lecture11.pdf), June 10, HW3 Due
@@ -135,9 +134,10 @@ S1211Q Introduction to Statistics with Calculus
   - The t Distributions
   
 
-- [Lecture 16], June 18, Quiz 3
+- [Lecture 16], June 18
 
   - Intervals Based on t Distribution
+  - Quiz 3
 
 - [Lecture 17], June 22
 
@@ -165,10 +165,12 @@ S1211Q Introduction to Statistics with Calculus
    - 8.51a,b,c, 8.55, 8.58 (P-Values)</font> 
 
 {% endcomment %}
-- [Lecture 20], June 25, Quiz 4
+
+- [Lecture 20], June 25
 
   - Two-Sample t test and CI,
   - Scatter Plot
+  - Quiz 4
   
 - [Lecture 21], June 29
 
