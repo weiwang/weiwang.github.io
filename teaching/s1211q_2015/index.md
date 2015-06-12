@@ -105,17 +105,16 @@ S1211Q Introduction to Statistics with Calculus
 
   - Midterm
 
-- [Lecture 13], June 15
+- [Lecture 13](./lecture13.pdf), June 15
 
+  - Covariance and Correlation
   - Statistics and Their Sampling Distributions
-  - Central Limit Theorem
-  - Point Estimation
   
 
 - [Lecture 14], June 16
 
-  - Point Estimation Cont'd
-  - Intro to Confidence Interval
+  - Central Limit Theorem
+  - Point Estimation
   
 {% comment %}
    <font color="red">Homework 5: 
