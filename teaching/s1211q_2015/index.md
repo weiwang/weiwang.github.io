@@ -101,15 +101,14 @@ S1211Q Introduction to Statistics with Calculus
    4.2, 4.4 (Continuous Distributions), 4.12, 4.23 (CDF and Expected Values), 4.28 e, f, g; 4.36, 4.45 (Normal Distribution), 5.7, 5.22 (Joint Distribution), [R question](./r-question-4.html) Due Wed June 17
     </font> 
 
-- [Lecture 12], June 11
+- Lecture 12, June 11
 
   - Midterm
 
 - [Lecture 13](./lecture13.pdf), June 15
 
   - Covariance and Correlation
-  - Statistics and Their Sampling Distributions
-  
+  - Statistics and Their Sampling Distributions 
 
 - [Lecture 14], June 16
 
