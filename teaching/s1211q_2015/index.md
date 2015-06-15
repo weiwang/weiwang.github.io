@@ -110,7 +110,7 @@ S1211Q Introduction to Statistics with Calculus
   - Covariance and Correlation
   - Statistics and Their Sampling Distributions 
 
-- [Lecture 14], June 16
+- [Lecture 14](./lecture14.pdf), June 16
 
   - Central Limit Theorem
   - Point Estimation
