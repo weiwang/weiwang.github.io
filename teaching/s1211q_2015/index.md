@@ -119,7 +119,7 @@ S1211Q Introduction to Statistics with Calculus
    <font color="red"> 2<sup>nd</sup> Midterm Practice Problems: 3.80, 3.97, 4.28, 4.29, 4.105, 4.106, 5.59, 6.4 </font> 
 {% endcomment %}
 
-- [Lecture 15], June 17, HW4 due
+- [Lecture 15](./lecture15.pdf), June 17, HW4 due
   - Large-sample CI for a Population Mean
   - CI for a Population Proportion
   - <font color="red">Homework 5: 5.51, 5.52, 5.53 (Distribution of Sample Mean),  5.60 (Distribution of Linear Combinations), 6.3, 6.5, 6.15, 6.28, 6.29 (Point Estimation),  7.3, 7.6 (Confidence Interval), 7.13, 7.25 (Intervals based on Normal Distribution), [R question](./r-question-5.html). Due Wed June 24.
