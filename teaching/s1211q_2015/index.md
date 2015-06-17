@@ -120,33 +120,34 @@ S1211Q Introduction to Statistics with Calculus
 {% endcomment %}
 
 - [Lecture 15](./lecture15.pdf), June 17, HW4 due
-  - Large-sample CI for a Population Mean
-  - CI for a Population Proportion
+  - Intro to CI
+  - CI for normal with known variance
+  - Large-sample CI 
+  - Intervals Based on t Distribution
   - <font color="red">Homework 5: 5.51, 5.52, 5.53 (Distribution of Sample Mean),  5.60 (Distribution of Linear Combinations), 6.3, 6.5, 6.15, 6.28, 6.29 (Point Estimation),  7.3, 7.6 (Confidence Interval), 7.13, 7.25 (Intervals based on Normal Distribution), [R question](./r-question-5.html). Due Wed June 24.
 </font> 
   
 
-- [Lecture 16], June 18
+- [Lecture 16](./lecture16.pdf), June 18
 
-  - Intervals Based on t Distribution
+  - Intro to Hypothesis Testing
   - Quiz 3
 
 - [Lecture 17], June 22
 
-  - Intro to Hypothesis Testing
+
   - Testing Procedures and Errors
-  
-
-- [Lecture 18], June 23
-
   - Testing Hypothesis about a Single Mean and Proportion
   
-
-- [Lecture 19], June 24, HW5 Due
+- [Lecture 18], June 23
 
   - P-values
   - Intro to Two Samples Inference
-  
+
+- [Lecture 19], June 24, HW5 Due
+
+  - Two-Sample t test and CI,
+
 {% comment %}
    <font color="red">Homework 6: 
    - 7.32, 7.34a  (t Intervals) 
@@ -159,13 +160,11 @@ S1211Q Introduction to Statistics with Calculus
 
 - [Lecture 20], June 25
 
-  - Two-Sample t test and CI,
-  - Scatter Plot
+  - Simple Linear Regression
   - Quiz 4
   
 - [Lecture 21], June 29
-
-  - Simple Linear Regression
+  
   - Estimation of Model Parameters
   
 {% comment %}
