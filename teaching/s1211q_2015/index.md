@@ -128,7 +128,7 @@ S1211Q Introduction to Statistics with Calculus
 </font> 
   
 
-- [Lecture 16](./lecture16.pdf), June 18
+- [Lecture 16](./lecture16.pdf), [R demo](./R_demo_16.R), June 18
 
   - Intro to Hypothesis Testing
   - Quiz 3
