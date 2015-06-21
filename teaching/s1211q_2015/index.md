@@ -36,7 +36,7 @@ S1211Q Introduction to Statistics with Calculus
   - Basic Properties
   - Sections covered 2.1, 2.2
 
--  [Lecture 4](./lecture4.pdf), [R Demo](./R_demo_4.R), May 29
+-  [Lecture 4](./lecture4.pdf), May 29
 
   - HW1 Due
   - Probability Properties continued
@@ -133,8 +133,7 @@ S1211Q Introduction to Statistics with Calculus
   - Intro to Hypothesis Testing
   - Quiz 3
 
-- [Lecture 17], June 22
-
+- [Lecture 17](./lecture17.pdf), June 22
 
   - Testing Procedures and Errors
   - Testing Hypothesis about a Single Mean and Proportion
@@ -150,12 +149,12 @@ S1211Q Introduction to Statistics with Calculus
 
 {% comment %}
    <font color="red">Homework 6: 
-   - 7.32, 7.34a  (t Intervals) 
-   - 8.5 (Test Procedure) 
+   - 7.33, 7.34a  (t Intervals)
+   Edition 8
    - 8.16, 8.25, 8.26, 8.29a (Test Concerning a Population Mean) 
    - 8.37 (Test Concerning a Population Proportion) 
-   - 8.51a,b,c, 8.55, 8.58 (P-Values)</font> 
-
+   - 8.51 a,b,c, 8.55, 8.58 (P-Values)
+   - 12.16, 12.32 </font> 
 {% endcomment %}
 
 - [Lecture 20], June 25
@@ -168,7 +167,7 @@ S1211Q Introduction to Statistics with Calculus
   - Estimation of Model Parameters
   
 {% comment %}
-   <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean), 12.12abcd </font>
+   <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean),  </font>
 {% endcomment %}
 
 - [Lecture 22], June 30
