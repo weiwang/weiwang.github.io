@@ -138,14 +138,15 @@ S1211Q Introduction to Statistics with Calculus
   - Testing Procedures and Errors
   - Testing Hypothesis about a Single Mean and Proportion
   
-- [Lecture 18], June 23
+- [Lecture 18](./lecture18.pdf), June 23
 
-  - P-values
-  - Intro to Two Samples Inference
+  - Testing Hypothesis about a Single Mean and Proportion
+  - Probability Plot
 
 - [Lecture 19], June 24, HW5 Due
 
-  - Two-Sample t test and CI,
+  - P-values
+  - Two-Sample test
 
 {% comment %}
    <font color="red">Homework 6: 
