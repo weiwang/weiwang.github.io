@@ -143,7 +143,7 @@ S1211Q Introduction to Statistics with Calculus
   - Testing Hypothesis about a Single Mean and Proportion
   - Probability Plot
 
-- [Lecture 19](./lecture19.pdf), June 24, HW5 Due
+- [Lecture 19](./lecture19.pdf), [R demo](./R_demo_19.R), June 24, HW5 Due
 
   - P-values
   - Two-Sample test
