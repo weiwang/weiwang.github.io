@@ -147,7 +147,7 @@ S1211Q Introduction to Statistics with Calculus
 
   - P-values
   - Two-Sample test
-  - <font color="red">Homework 6: (The numberings follow edition 8 of the
+  - <font color="red">Homework 6: (The problem numbers follow edition 8 of the
      textbook and you can find it [here](./textbook.pdf))
 
     7.33, 7.34a (t Intervals; Critical values for t distribution can be found in
