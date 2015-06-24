@@ -158,7 +158,7 @@ S1211Q Introduction to Statistics with Calculus
    - 12.16, 12.32 </font> 
 {% endcomment %}
 
-- [Lecture 20], June 25
+- [Lecture 20](./lecture20.pdf), June 25
 
   - Simple Linear Regression
   - Quiz 4
