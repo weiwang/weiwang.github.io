@@ -164,18 +164,25 @@ S1211Q Introduction to Statistics with Calculus
   
   - Estimation of Model Parameters
   
-{% comment %}
-   <font color="red"> Final Exam Practice Problems: 2.38a b c, 2.100b, 3.50, 3.81, 4.45, 4.106, 5.60, 6.11, 7.20, 8.58(Also give a 95% Confidence Interval for the population mean),  </font>
-{% endcomment %}
+  - Practice Problem for final (The problem numbers follow edition 8 of the
+     textbook and you can find it [here](./textbook.pdf))
+     
+    - 5.46, 5.50, 5.59
+    
+    - 6.11, 6.15, Example 6.16
+    
+    - 7.16, 7.20, 7.34a
+    
+    - 8.58, 8.75 and 8.26, 8.37
+    
 
 - [Lecture 22], June 30
 
   - Inference about Regression Slope
   
-
 - Lecture 23, July 1, HW6 Due
 
-  - Review 
+  - Review Final Practice Problem
 
 - Lecture 24, July 2, Final
 
