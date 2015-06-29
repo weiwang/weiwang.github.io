@@ -160,7 +160,7 @@ S1211Q Introduction to Statistics with Calculus
   - Simple Linear Regression
   - Quiz 4
   
-- [Lecture 21], June 29
+- [Lecture 21](./lecture21.pdf), June 29
   
   - Estimation of Model Parameters
   
