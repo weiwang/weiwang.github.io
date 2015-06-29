@@ -164,7 +164,7 @@ S1211Q Introduction to Statistics with Calculus
   
   - Estimation of Model Parameters
   
-  - Practice Problem for final (The problem numbers follow edition 8 of the
+   <font color="red"> - Practice Problem for final (The problem numbers follow edition 8 of the
      textbook and you can find it [here](./textbook.pdf))
      
     - 5.46, 5.50, 5.59
@@ -174,7 +174,7 @@ S1211Q Introduction to Statistics with Calculus
     - 7.16, 7.20, 7.34a
     
     - 8.58, 8.75 and 8.26, 8.37
-    
+    </font>
 
 - [Lecture 22], June 30
 
