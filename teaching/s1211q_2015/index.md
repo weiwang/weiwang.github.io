@@ -176,7 +176,7 @@ S1211Q Introduction to Statistics with Calculus
     - 8.58, 8.75 and 8.26, 8.37
     </font>
 
-- [Lecture 22], June 30
+- [Lecture 22](./lecture22.pdf), June 30
 
   - Inference about Regression Slope
   
