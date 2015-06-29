@@ -98,7 +98,7 @@ S1211Q Introduction to Statistics with Calculus
   - Jointly Distributed Random Variables
   
   - <font color="red">Homework 4: 
-   4.2, 4.4 (Continuous Distributions), 4.12, 4.23 (CDF and Expected Values), 4.28 e, f, g; 4.36, 4.45 (Normal Distribution), 5.7, 5.22 (Joint Distribution), [R question](./r-question-4.html) Due Wed June 17
+   4.2, 4.4 (Continuous Distributions), 4.12, 4.23 (CDF and Expected Values), 4.28 e, f, g; 4.36, 4.45 (Normal Distribution), 5.7, 5.22 (Joint Distribution), [R question](./r-question-4.html) Due Wed June 17. [Solutions](./hw4_solutions.pdf)
     </font> 
 
 - Lecture 12, June 11
@@ -124,7 +124,7 @@ S1211Q Introduction to Statistics with Calculus
   - CI for normal with known variance
   - Large-sample CI 
   - Intervals Based on t Distribution
-  - <font color="red">Homework 5: 5.51, 5.52, 5.53 (Distribution of Sample Mean),  5.60 (Distribution of Linear Combinations), 6.3, 6.5, 6.15, 6.28, 6.29 (Point Estimation),  7.3, 7.6 (Confidence Interval), 7.13, 7.25 (Intervals based on Normal Distribution), [R question](./r-question-5.html). Due Wed June 24.
+  - <font color="red">Homework 5: 5.51, 5.52, 5.53 (Distribution of Sample Mean),  5.60 (Distribution of Linear Combinations), 6.3, 6.5, 6.15, 6.28, 6.29 (Point Estimation),  7.3, 7.6 (Confidence Interval), 7.13, 7.25 (Intervals based on Normal Distribution), [R question](./r-question-5.html). Due Wed June 24. [Solutions](./hw5_solutions.pdf)
 </font> 
   
 
