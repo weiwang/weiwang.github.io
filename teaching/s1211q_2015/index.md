@@ -174,6 +174,7 @@ S1211Q Introduction to Statistics with Calculus
     - 7.16, 7.20, 7.34a
     
     - 8.58, 8.75 and 8.26, 8.37
+    - [solutions](./final_prac_solutions.pdf)
     </font>
 
 - [Lecture 22](./lecture22.pdf), June 30
