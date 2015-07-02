@@ -147,13 +147,13 @@ S1211Q Introduction to Statistics with Calculus
 
   - P-values
   - Two-Sample test
-  - <font color="red">Homework 6: (The problem numbers follow edition 8 of the
-     textbook and you can find it [here](./textbook.pdf))
+    - <font color="red">Homework 6: (The problem numbers follow edition 8 of the
+       textbook and you can find it [here](./textbook.pdf))
 
-    7.33, 7.34a (t Intervals; Critical values for t distribution can be found in
-     Table A.5) 8.16, 8.25, 8.26, 8.29a (Test Concerning a Population Mean) 8.37
-     (Test Concerning a Population Proportion) 8.51 a,b,c, 8.55, 8.58 (P-Values)
-     12.12 a,b,c,d (Simple Regression) </font>
+      7.33, 7.34a (t Intervals; Critical values for t distribution can be found in
+       Table A.5) 8.16, 8.25, 8.26, 8.29a (Test Concerning a Population Mean) 8.37
+       (Test Concerning a Population Proportion) 8.51 a,b,c, 8.55, 8.58 (P-Values)
+       12.12 a,b,c,d (Simple Regression) [solutions](./hw6_solutions.pdf) </font>
 
 - [Lecture 20](./lecture20.pdf), June 25
 
