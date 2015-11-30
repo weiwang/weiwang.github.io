@@ -27,14 +27,14 @@ Science and Technology of China</a>. </p>
 * Published Papers
    - Michael Sobel, David Madigan and Wei Wang. 2016. _Meta-Analysis: A Causal Framework,
      with Application to Randomized Studies of
-     Vioxx_. Psychometrika. In Press. [pdf](research/Meta-Analysis-A-Causal-Framework.pdf)
+     Vioxx_. Psychometrika. In Press. [pdf](research/meta-analysis-a-causal-framework.pdf)
 
    - Wei Wang, David Rothschild, Sharad Goel and Andrew Gelman. 2014. _Forecasting
      Elections  with Non-Representative Poll_. International Journal of
      Forecasting. [pdf](research/forecasting-with-nonrepresentative-polls.pdf)
 
    - Wei Wang and Andrew Gelman. 2014. _Difficulty of Selecting among Multilevel Model
-    using Predictive Accuracy_. Statistics and Its
+    using Predictive Accuracy_. Statist and Its
     Interfaces. [pdf](research/difficulty-of-selecting-multilevel-models.pdf)
 
    - Aira Toivgoo, Wei Wang and Susan Witte. 2013.  _Reducing Risk
