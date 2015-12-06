@@ -27,7 +27,7 @@ Science and Technology of China</a>. </p>
 * Published Papers
    - Michael Sobel, David Madigan and Wei Wang. 2016. _Meta-Analysis: A Causal Framework,
      with Application to Randomized Studies of
-     Vioxx_. Psychometrika. In Press. [pdf](research/meta-analysis-a-causal-framework.pdf)
+     Vioxx_. Psychometrika. In Press. [pdf](research/meta.pdf)
 
    - Wei Wang, David Rothschild, Sharad Goel and Andrew Gelman. 2014. _Forecasting
      Elections  with Non-Representative Poll_. International Journal of
